@@ -1,0 +1,30 @@
+ - title: DRIVERS LEVEL 1
+   subtitle: (Manufacturing Parks, IT Centers, Data Center Plaza,Government, Hotel Casino, General Communal Services)
+   occupancy: 37956
+   automoviles: 45839
+   population: 113461
+   lot: 461
+   construction: 464405
+
+ - title: DRIVERS LEVEL 2
+   subtitle: (Recycling, Education, Health,Town Center and Retail, Food & Drink)
+   occupancy: 33288
+   automoviles: 7051
+   population: 40916
+   lot: 969
+   construction: 608433
+
+ - title: DRIVERS LEVEL 3
+   subtitle: (Strip Shopping Centers, Entertaining, Theme Park,Country Club, Polo Court)
+   occupancy: 4071
+   automoviles: 1549
+   population: N/A
+   lot: 194
+   construction: 564568
+
+ - title: HOUSING
+   occupancy: 10778*
+   automoviles: 96441**
+   population: 96441
+   lot: 149
+   construction: 4056231

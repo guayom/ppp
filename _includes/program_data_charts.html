@@ -1,0 +1,32 @@
+{% for chart in site.data.program_data_charts %}<table class="table table-striped table-bordered">
+	<thead>
+		<tr>
+			<th colspan="2">{{ chart.title }}</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="2">{{ chart.subtitle }}</td>
+		</tr>
+		<tr>
+			<td>Occupancy (full time workers)</td>
+			<td class="text-right">{{ chart.titloccupancye }}</td>
+		</tr>
+		<tr>
+			<td>Automoviles</td>
+			<td class="text-right">{{ chart.automoviles }}</td>
+		</tr>
+		<tr>
+			<td>Population</td>
+			<td class="text-right">{{ chart.population }}</td>
+		</tr>
+		<tr>
+			<td>Lot Areas</td>
+			<td class="text-right">{{ chart.lot }}HA</td>
+		</tr>
+		<tr>
+			<td>Construction Area</td>
+			<td class="text-right">{{ chart.construction }}m<sup>2</sup></td>
+		</tr>
+	</tbody>
+</table>{% endfor %}

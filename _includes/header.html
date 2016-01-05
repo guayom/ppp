@@ -1,0 +1,49 @@
+<header class="header">
+
+  <!-- NAVBAR -->
+  <nav class="navbar container sf-js-enabled sf-arrows" style="touch-action: pan-y;">
+
+    <!-- NAVBAR BRAND -->
+    <a class="navbar-brand pull-left" href="{{ site.url }}/index.html">
+      <img src="/images/isotipo-sm.png"/> {{ site.title }}
+    </a>
+    <!-- /.navbar-brand -->
+
+    <!-- NAVBAR FORM -->
+    <form class="navbar-form pull-right">
+      <div class="navbar-search collapse">
+        <input type="text" placeholder="Escriba y presione enter...">
+        <i class="fa fa-times" data-toggle="collapse" data-target=".navbar-search"></i>
+      </div>
+      <button type="button" class="fa fa-search" data-target=".navbar-search" data-toggle="collapse"></button>
+    </form>
+    <!-- /.navbar-form -->
+
+    <div class="divider pull-right"></div>
+
+    <button class="navbar-toggle pull-right" data-target="#navbar" data-toggle="collapse" type="button">
+      <i class="fa fa-bars"></i>
+    </button>
+
+    <!-- NAVBAR COLLAPSE -->
+    <div id="navbar" class="navbar-collapse pull-right">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="{{ site.url }}/about/introduction/">Project</a>
+        </li>
+        {% for my_page in site.pages %}
+          {% if my_page.layout != 'project' %}
+            <li class="active">
+              <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            </li>
+          {% endif %} 
+        {% endfor %}
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+
+  </nav>
+  <!-- /.navbar -->
+
+</header>
+

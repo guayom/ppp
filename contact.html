@@ -1,0 +1,114 @@
+---
+layout: page
+title: Contact
+subtitle: Please, feel free to contact us in case of any doubts or comments
+permalink: /contact/
+icon: envelope
+---
+<!-- CONTAINER -->
+<div class="contact contact-light">
+	<div class="container">
+		<div class="row irow-sm text-center cols-border contact-wrap">
+			<div class="col-md-3 col-xs-6">
+				<div class="icon icon-size-4 icon-color">
+					<i class="fa fa-clock-o"></i>
+				</div>
+				<h4>Contact</h4>
+				<address>Our team usually working
+					from 8 am till 5 pm
+					(UTC +02:00)</address>
+				<div class="heading-divider"></div>
+			</div>
+			<div class="col-md-3 col-xs-6">
+				<div class="icon icon-size-4 icon-color">
+					<i class="fa fa-map-marker"></i>
+				</div>
+				<h4>Address</h4>
+				<address>Le Meridien 21 Piccadilly, New York W1J 0BH, United States</address>
+				<div class="heading-divider"></div>
+			</div>
+			<div class="col-md-3 col-xs-6">
+				<div class="icon icon-size-4 icon-color">
+					<i class="fa fa-phone"></i>
+				</div>
+				<h4>Phone numbers</h4>
+				<address>
+					+506 2190 4700 <br/>
+					+506 4390 5500
+				</address>
+				<div class="heading-divider"></div>
+			</div>
+			<div class="col-md-3 col-xs-6">
+				<div class="icon icon-size-4 icon-color">
+					<i class="fa fa-envelope-o"></i>
+				</div>
+				<h4>Email</h4>
+				<address>
+					<a href="mailto:{{ site.email }}">{{ site.email }}</a> <br/>
+				</address>
+				<div class="heading-divider"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /.container -->
+<hr class="hr-nobg"/>
+<!-- CONTAINER -->
+<div class="container contact-form">
+	<div class="row">
+		<div class="col-sm-6">
+			<!-- Tabs -->
+			<div class="tabs tabs-vertical-left tabs-icons-square">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs pull-left">
+					<li class="active"><a href="#mus-5" data-toggle="tab"><i class="fa fa-search"></i></a></li>
+					<li><a href="#photo-5" data-toggle="tab"><i class="fa fa-car"></i></a></li>
+				</ul>
+				<!-- Tab panes -->
+				<div class="tab-content no-border">
+					<div class="tab-pane fade in active" id="mus-5">
+						<h4>How to find us?</h4>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+						<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
+					</div>
+					<div class="tab-pane fade" id="photo-5">
+						<h4>Visit us</h4>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+						<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+					</div>
+				</div>
+			</div>
+			<!-- /.tabs -->
+		</div>
+		<div class="col-sm-6">
+			<h3>Contact Form</h3>
+			<form action="../../php/email.php" method="post" class="contact-form" novalidate>
+				<div class="form-wrap">
+					<div class="form-group">
+						<input type="text" name="name" id="send-form-name" placeholder="Name" required="required">
+					</div>
+					<div class="form-group">
+						<input type="email" name="email" id="send-form-email" placeholder="Email" required="required">
+					</div>
+					<div class="form-group">
+						<textarea name="message" placeholder="Message" id="send-form-message" required="required"></textarea>
+					</div>
+				</div>
+				<input type="submit" class="btn btn-primary btn-wide" value="Enviar">
+				<p class="succs-msg">Мessage was sent</p>
+			</form>
+		</div>
+	</div>
+</div>
+<!-- /.container -->
+<!-- MAP -->
+<div class="contact contact-light map-wrap">
+	<div class="google-map google-map-sm">
+		<div class="google-map-container" data-markers="9.9778701,-84.7617854,14z" data-center="9.9778701,-84.7617854,14z" data-zoom="11"></div>
+		<a href="#map-modal" class="a-map" data-toggle="modal">
+			<i class="fa fa-arrows-alt"></i>
+		</a>
+	</div>
+</div>
+<!-- /.google-map -->

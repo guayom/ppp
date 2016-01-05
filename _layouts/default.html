@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="no-mobile is-menu" data-feedly-mini="yes" cz-shortcut-listen="true">
+
+    {% include header.html %}
+
+    <!-- WRAPPER -->
+    <div class="wrapper">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+    <!-- SCRIPTS -->
+    <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=1"></script>
+    <script src="{{ site.url }}/js/jquery-2.1.4.min.js"></script>
+    <script src="{{ site.url }}/js/bootstrap.min.js"></script>
+    <script src="{{ site.url }}/js/plugins.js"></script>
+    <script src="{{ site.url }}/js/fontawesome-markers.min.js"></script>
+    <script src="{{ site.url }}/js/custom.js"></script>
+
+  </body>
+
+</html>
