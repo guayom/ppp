@@ -32,11 +32,11 @@
           <a href="{{ site.url }}/about/introduction/">Project</a>
         </li>
         {% for my_page in site.pages %}
-          {% if my_page.layout != 'project' %}
+          {% if my_page.layout != 'project' && my_page.ignore != 'yes' %}
             <li class="active">
               <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
             </li>
-          {% endif %} 
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
@@ -46,4 +46,3 @@
   <!-- /.navbar -->
 
 </header>
-
