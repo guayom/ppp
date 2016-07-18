@@ -7,7 +7,7 @@ published: true
 ---
 ## Pacific Tree S.A.
 
-**Managing Company and promoter of the Punta Palmar Pacífico Smart City**  initiative and its development through the generation of specialized poles in the areas of infrastructure, logistics, transportation, ports and Cargo airport, a center for technology transfer and a technological park.  It is represented by Mauricio Dobles Montealegre, a lawyer specializing in Corporate Law.  Pacific Tree S.A., through a consortia of national and international investors, aims to invest a sum of US$ 290 million dollars for the purchase of lands and financing of the advanced technical-study phase and development of basic infrastructure such as water well perforation, building of aqueducts, streets, sidewalks, bike lanes, underground electricity networks, sewer systems, water treatment plants and fiber optics networks among others.  This will invite sub-development companies to invest, design and develop specific sections within and for said poles. 
+**Managing Company, conceiver and promoter of the Punta Perla Pacífico Smart City initiative and its development through the generation of specialized development poles in the areas of infrastructure, logistics, transportation, ports and Cargo airport, a center for technology, ID center, tech transfer and a technological park.  It is represented by Mauricio Dobles Montealegre, a lawyer specializing in Corporate Law.  Pacific Tree S.A., through a consortia of national and international investors, aims to invest a sum of US$ 290 million dollars for the purchase of lands, financing of the advanced technical-study phase and development of basic infrastructure such as water well perforation, building of aqueducts, streets, sidewalks, bike lanes, underground electricity networks, sewer systems, water treatment plants and fiber optics networks among others.  This will invite sub-development companies to invest, design and develop specific sections within and for said poles. 
 
 ## INGENYA Consultores S.A.
 
@@ -27,12 +27,12 @@ A tourism consulting firm based in Costa Rica, specialized in projects in the tr
 ## Theme Park
 
 ### Natuwa
-Aramacao Bird Sanctuary
+Aramacao Bird Sanctuary. *to be described.
 Pendiente - Theme Park
 
 [natuwa.com](http://natuwa.com)
 
-## Nortdeco
+## Nortdeco.  *to be described.
 
 Agregar descripciónotequals
 [Nortdeco Website](http://nortdeco.com)
