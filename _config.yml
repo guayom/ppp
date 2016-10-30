@@ -19,6 +19,8 @@ sass:
 collections:
   about:
     output: true
+  participants:
+    output: true
 
 defaults:
   - scope:
@@ -26,3 +28,8 @@ defaults:
       type: about
     values:
       layout: project
+  - scope:
+      path: ""
+      type: participants
+    values:
+      layout: participants
