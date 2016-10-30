@@ -1,7 +1,6 @@
 ---
 title: Introduction
 subtitle: What is Punta Perla Pacífico?
-layout: project
 ---
 
 <h2><a id="Introduction_0"></a>Introduction</h2>
