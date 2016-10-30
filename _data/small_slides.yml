@@ -1,3 +1,16 @@
+- id: '18187'
+  item_type: small_slides
+  slug: '18187'
+  slug_with_prefix: '18187'
+  updated_at: 2016-10-30 05:43:00.562000000 Z
+  position: 2
+  image:
+    format: jpg
+    size: 5141545
+    url: https://dato-images.imgix.net/288/1477806146-ConjuntoTotal.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    width: 3988
+    height: 2599
+  oculto: false
 - id: '15479'
   item_type: small_slides
   slug: '15479'

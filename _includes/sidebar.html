@@ -1,0 +1,12 @@
+<h2 class="widget-title">Project</h2>
+<ul>
+	{% for node in site.about %}
+  {% if page.url == node.url %}
+    <li class="active">
+  {% else %}
+    <li>
+  {% endif %}
+			<a href="{{ node.url }}">{{ node.title }}</a>
+		</li>
+	{% endfor %}
+</ul>

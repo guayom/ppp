@@ -26,13 +26,11 @@ directory "_data/" do
   }
 end
 
-directory "about/" do
+directory "_about/" do
   create_post "introduction.md" do
     frontmatter :yaml,
       title: "Introduction",
       subtitle: dato.introduction.sub_title,
-      permalink: "/about/introduction/",
-      layout: "project"
 
     content dato.introduction.body
   end
@@ -41,16 +39,12 @@ directory "about/" do
     frontmatter :yaml,
       title: "Plans",
       subtitle: "How we envision Punta Palmar Pacífico",
-      permalink: "/about/plans/",
-      layout: "plans"
   end
 
   create_post "program-data.md" do
     frontmatter :yaml,
       title: "Program data - Smart City",
       subtitle: "How we envision Punta Palmar Pacífico",
-      permalink: "/about/program-data/",
-      layout: "project"
   end
 
   create_post "participants.md" do
