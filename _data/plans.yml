@@ -1,0 +1,52 @@
+- id: '14786'
+  item_type: plans
+  slug: industrial-zone-b
+  slug_with_prefix: 14786-industrial-zone-b
+  updated_at: 2016-09-17 16:19:42.127000000 Z
+  position: 4
+  title: Industrial Zone B
+  image:
+    format: jpg
+    size: 201148
+    url: https://dato-images.imgix.net/288/1474129171-industrial-zone-b.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    width: 1200
+    height: 731
+- id: '14785'
+  item_type: plans
+  slug: industrial-zone-a
+  slug_with_prefix: 14785-industrial-zone-a
+  updated_at: 2016-09-17 16:19:17.875000000 Z
+  position: 3
+  title: Industrial Zone A
+  image:
+    format: jpg
+    size: 211055
+    url: https://dato-images.imgix.net/288/1474129143-industrial-zone-a.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    width: 1200
+    height: 731
+- id: '14784'
+  item_type: plans
+  slug: recreative-commercial-retail-zone
+  slug_with_prefix: 14784-recreative-commercial-retail-zone
+  updated_at: 2016-09-17 16:18:52.772000000 Z
+  position: 2
+  title: Recreative / Commercial & Retail Zone
+  image:
+    format: jpg
+    size: 202505
+    url: https://dato-images.imgix.net/288/1474129123-recreative-zone.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    width: 1200
+    height: 731
+- id: '14783'
+  item_type: plans
+  slug: main-zones
+  slug_with_prefix: 14783-main-zones
+  updated_at: 2016-09-17 16:18:30.238000000 Z
+  position: 1
+  title: Main Zones
+  image:
+    format: jpg
+    size: 160841
+    url: https://dato-images.imgix.net/288/1474129101-main-zones.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    width: 1200
+    height: 733

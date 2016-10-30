@@ -1,0 +1,13 @@
+- id: '15479'
+  item_type: small_slides
+  slug: '15479'
+  slug_with_prefix: '15479'
+  updated_at: 2016-09-28 12:56:26.356000000 Z
+  position: 1
+  image:
+    format: jpg
+    size: 4284910
+    url: https://dato-images.imgix.net/288/1475067219-Puertov2.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    width: 3740
+    height: 2048
+  oculto: false

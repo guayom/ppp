@@ -29,15 +29,11 @@
     <div id="navbar" class="navbar-collapse pull-right">
       <ul class="nav navbar-nav">
         <li>
-          <a href="{{ site.url }}/about/introduction/">Project</a>
+          <a href="{{ site.url }}/about/introduction/">About the project</a>
         </li>
-        {% for my_page in site.pages %}
-          {% if my_page.layout != 'project' && my_page.ignore != 'yes' %}
-            <li class="active">
-              <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-            </li>
-          {% endif %}
-        {% endfor %}
+        <li>
+          <a href="{{ site.url }}/contact/">Contact</a>
+        </li>
       </ul>
     </div>
     <!-- /.navbar-collapse -->

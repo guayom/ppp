@@ -1,18 +1,32 @@
-# directory "_data" do
-#   dato.clusters.each do |item|
-#     create_data_file "#{item.title.slug}.yaml", :yaml,
-#       title: item.title,
-#       description: item.short_description
-#   end
-# end
+
 directory "_data/" do
-  create_data_file "contacto.yml", :yaml,
+  create_data_file "clusters.yml", :yaml,
+    dato.clusters.map(&:to_hash)
+
+  create_data_file "slides.yml", :yaml,
+    dato.slides.map(&:to_hash)
+
+  create_data_file "program_data_charts.yml", :yaml,
+    dato.program_data_charts.map(&:to_hash)
+
+  create_data_file "small_slides.yml", :yaml,
+    dato.small_slides.map(&:to_hash)
+
+  create_data_file "plans.yml", :yaml,
+    dato.plans.map(&:to_hash)
+
+  create_data_file "small_description.yml", :yaml, {
+    content: dato.small_description.content
+  }
+
+  create_data_file "contacto.yml", :yaml, {
     email: dato.contacto.email,
     phone: dato.contacto.phone,
     address: dato.contacto.address
+  }
 end
 
-directory "_about/" do
+directory "about/" do
   create_post "introduction.md" do
     frontmatter :yaml,
       title: "Introduction",
@@ -28,7 +42,7 @@ directory "_about/" do
       title: "Plans",
       subtitle: "How we envision Punta Palmar Pacífico",
       permalink: "/about/plans/",
-      layout: "project"
+      layout: "plans"
   end
 
   create_post "program-data.md" do

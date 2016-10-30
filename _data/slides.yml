@@ -1,0 +1,26 @@
+- id: '14761'
+  item_type: slides
+  slug: zona-industrial-b
+  slug_with_prefix: 14761-zona-industrial-b
+  updated_at: 2016-09-17 10:30:07.205000000 Z
+  title: Zona industrial B
+  image:
+    format: jpg
+    size: 4918132
+    url: https://dato-images.imgix.net/288/1474108102-industrial-b.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    width: 3740
+    height: 2048
+  decription: "<p>Descripción de Zona Industrial B</p>"
+- id: '14760'
+  item_type: slides
+  slug: estadio
+  slug_with_prefix: 14760-estadio
+  updated_at: 2016-09-17 10:27:48.444000000 Z
+  title: Estadio
+  image:
+    format: jpg
+    size: 4920650
+    url: https://dato-images.imgix.net/288/1474107739-estadio.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    width: 3740
+    height: 2048
+  decription: "<p>Foto del estadio</p>"

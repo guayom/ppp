@@ -1,0 +1,57 @@
+- id: '14767'
+  item_type: clusters
+  slug: special-economical-zone
+  slug_with_prefix: 14767-special-economical-zone
+  updated_at: 2016-09-17 11:20:36.946000000 Z
+  position: 6
+  title: Special Economical Zone
+  short_description: "<p>or the development of a Smart City Punta Perla Pacífico will
+    contribute through a Joint venture agreement between 800 and 1200 hectares of
+    land for the development of a SEZ.</p>"
+- id: '14766'
+  item_type: clusters
+  slug: ecologycal-and-medical-tourist-development
+  slug_with_prefix: 14766-ecologycal-and-medical-tourist-development
+  updated_at: 2016-09-17 11:20:25.956000000 Z
+  position: 5
+  title: Ecologycal and Medical Tourist development
+  short_description: "<p>The development of a tourisctic and ecological/Medical center,
+    that will include the visitation of the natural wonderings of the mangrove coast
+    line.</p>"
+- id: '14765'
+  item_type: clusters
+  slug: medical-general-treatment-and-tourism
+  slug_with_prefix: 14765-medical-general-treatment-and-tourism
+  updated_at: 2016-09-17 11:20:15.463000000 Z
+  position: 4
+  title: Medical General Treatment and Tourism
+  short_description: "<p>Plantea desarrollar un centro hospitalario en donde se ofrezca
+    servicios en todas las áreas médicas, desde las más generales a las más especializadas
+    y vanguardistas, caracterizadas por la innovación y excelencia.</p>"
+- id: '14764'
+  item_type: clusters
+  slug: data-center-cluster
+  slug_with_prefix: 14764-data-center-cluster
+  updated_at: 2016-09-17 11:20:05.895000000 Z
+  position: 3
+  title: Data Center Cluster
+  short_description: "<p>The Data Center is expected to attract call center services
+    for companies located within the GAMA (Extended and Greater Metropolitan Area),
+    as well as those outside it and abroad.</p>"
+- id: '14763'
+  item_type: clusters
+  slug: solar-photovoltaic-megapark-cluster
+  slug_with_prefix: 14763-solar-photovoltaic-megapark-cluster
+  updated_at: 2016-09-17 11:19:57.632000000 Z
+  position: 2
+  title: Solar Photovoltaic Megapark Cluster
+  short_description: "<p>The land where this will be located is a sunny place in Costa
+    Rica.</p>"
+- id: '14762'
+  item_type: clusters
+  slug: university-educational-cluster
+  slug_with_prefix: 14762-university-educational-cluster
+  updated_at: 2016-09-17 11:19:46.206000000 Z
+  position: 1
+  title: University-Educational Cluster
+  short_description: "<p>Creation of qualified human capital.</p>"
