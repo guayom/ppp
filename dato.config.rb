@@ -41,14 +41,14 @@ directory "_about/" do
   create_post "plans.md" do
     frontmatter :yaml,
       title: "Plans",
-      subtitle: "How we envision Punta Palmar Pacífico",
+      subtitle: "How we envision Punta Perla Pacífico",
       layout: "plans"
   end
 
   create_post "program-data.md" do
     frontmatter :yaml,
       title: "Program data - Smart City",
-      subtitle: "How we envision Punta Palmar Pacífico",
+      subtitle: "How we envision Punta Perla Pacífico",
       layout: "program-data"
   end
 

@@ -9,6 +9,7 @@
     <p><span>Agregar descripción</span>
     </p><p><a href="http://nortdeco.com" target="_blank">nortdeco.com</a>
     </p>
+  subtitle: 
 - id: '14757'
   item_type: participants
   slug: natuwa
@@ -18,6 +19,7 @@
   name: Natuwa
   description: "<h3>Aramacao Bird Sanctuary\n</h3>\n<p>Pendiente - Theme Park\n</p>\n<p>\n\t<a
     href=\"http://natuwa.com\" target=\"_blank\">natuwa.com</a>\n</p>"
+  subtitle: 
 - id: '14756'
   item_type: participants
   slug: encyclia-eco-turism
@@ -34,6 +36,7 @@
     with strong environmental components and high traffic, our professionals are leaders
     with wide knowledge of the national and regional dynamics of the industry, formed
     in ecotourism, sustainable development and hotel management. </p>"
+  subtitle: 
 - id: '14755'
   item_type: participants
   slug: tabash-y-asociados
@@ -63,6 +66,7 @@
     which will create the structure needed in order to negotiate the land. &gt; c)
     the third task will be to raise the capital needed to buy the land and carry out
     the required studies for the execution of the project.</p>"
+  subtitle: 
 - id: '14754'
   item_type: participants
   slug: gestarse-s-a
@@ -76,6 +80,7 @@
     Organizational Development and Project Management. They work together with the
     organization in order to create the conditions for the management of their process
     internally, instead of creating co-dependence. </span></p>"
+  subtitle: 
 - id: '14753'
   item_type: participants
   slug: ingenya-consultores-s-a
@@ -88,6 +93,7 @@
     in high tech industrial projects for the industries of microchips, medical products
     and pharmaceuticals, as well as for the manufacture of food products.  Furthermore,
     Ingenya has a vast experience in the hotel industry and housing projects. </p>"
+  subtitle: 
 - id: '14752'
   item_type: participants
   slug: pacific-tree-s-a
@@ -107,3 +113,4 @@
     lanes, underground electricity networks, sewer systems, water treatment plants
     and fiber optics networks among others.  This will invite sub-development companies
     to invest, design and develop specific sections within and for said poles. </p>"
+  subtitle: 
