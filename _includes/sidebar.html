@@ -1,12 +1,20 @@
-<h2 class="widget-title">Project</h2>
+{% if page.url contains "participants" %}
+  {% assign sidebar_collection =  site.participants %}
+  {% assign sidebar_title = "Participants"%}
+{% else %}
+  {% assign sidebar_collection =  site.about %}
+  {% assign sidebar_title = "Project"%}
+{% endif %}
+
+<h2 class="widget-title">{{sidebar_title}}</h2>
 <ul>
-	{% for node in site.about %}
-  {% if page.url == node.url %}
-    <li class="active">
-  {% else %}
-    <li>
-  {% endif %}
-			<a href="{{ node.url }}">{{ node.title }}</a>
-		</li>
+	{% for node in sidebar_collection %}
+    {% if page.url == node.url %}
+      <li class="active">
+    {% else %}
+      <li>
+    {% endif %}
+  			<a href="{{ node.url }}">{{ node.title }}</a>
+  		</li>
 	{% endfor %}
 </ul>

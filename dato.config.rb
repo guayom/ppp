@@ -53,3 +53,13 @@ directory "_about/" do
   end
 
 end
+
+directory "_participants/" do
+  dato.participants.each do |participant|
+    create_post "#{participant.name.parameterize}.md" do
+      frontmatter :yaml,
+        title: participant.name,
+        description: participant.description
+    end
+  end
+end

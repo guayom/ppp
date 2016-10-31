@@ -32,4 +32,4 @@ defaults:
       path: ""
       type: participants
     values:
-      layout: participants
+      layout: participant
