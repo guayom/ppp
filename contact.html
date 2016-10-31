@@ -83,13 +83,13 @@ icon: envelope
 		</div>
 		<div class="col-sm-6">
 			<h3>Contact Form</h3>
-			<form action="../../php/email.php" method="post" class="contact-form" novalidate>
+			<form action="https://formspree.io/{{site.data.contacto.email}}" method="post" class="contact-form" novalidate>
 				<div class="form-wrap">
 					<div class="form-group">
 						<input type="text" name="name" id="send-form-name" placeholder="Name" required="required">
 					</div>
 					<div class="form-group">
-						<input type="email" name="email" id="send-form-email" placeholder="Email" required="required">
+						<input type="email" name="_replyto" id="send-form-email" placeholder="Email" required="required">
 					</div>
 					<div class="form-group">
 						<textarea name="message" placeholder="Message" id="send-form-message" required="required"></textarea>
