@@ -2,7 +2,7 @@
   {% assign sidebar_collection =  site.participants %}
   {% assign sidebar_title = "Participants"%}
 {% else %}
-  {% assign sidebar_collection =  site.about %}
+  {% assign sidebar_collection =  site.about | sort: 'weight' %}
   {% assign sidebar_title = "Project"%}
 {% endif %}
 

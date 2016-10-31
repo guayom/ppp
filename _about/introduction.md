@@ -1,6 +1,7 @@
 ---
 title: Introduction
 subtitle: What is Punta Perla Pacífico?
+weight: 1
 ---
 
 <h2><a id="Introduction_0"></a>Introduction</h2>

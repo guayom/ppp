@@ -30,26 +30,40 @@ directory "_data/" do
 end
 
 directory "_about/" do
+
   create_post "introduction.md" do
     frontmatter :yaml,
       title: "Introduction",
-      subtitle: dato.introduction.sub_title
+      subtitle: dato.introduction.sub_title,
+      weight: 1
 
     content dato.introduction.body
   end
+
+  create_post "executive-summary.md" do
+    frontmatter :yaml,
+      title: "Executive Summary",
+      subtitle: dato.executive_summary.subtitle,
+      weight: 2
+
+    content dato.executive_summary.content
+  end
+
 
   create_post "plans.md" do
     frontmatter :yaml,
       title: "Plans",
       subtitle: "How we envision Punta Perla Pacífico",
-      layout: "plans"
+      layout: "plans",
+      weight: 3
   end
 
   create_post "program-data.md" do
     frontmatter :yaml,
       title: "Program data - Smart City",
       subtitle: "How we envision Punta Perla Pacífico",
-      layout: "program-data"
+      layout: "program-data",
+      weight: 4
   end
 
 end
