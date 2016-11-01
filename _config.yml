@@ -21,6 +21,8 @@ collections:
     output: true
   participants:
     output: true
+  clusters:
+    output: true
 
 defaults:
   - scope:
@@ -33,3 +35,8 @@ defaults:
       type: participants
     values:
       layout: participant
+  - scope:
+      path: ""
+      type: clusters
+    values:
+      layout: cluster

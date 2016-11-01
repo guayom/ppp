@@ -77,3 +77,13 @@ directory "_participants/" do
     end
   end
 end
+
+directory "_clusters/" do
+  dato.clusters.each do |cluster|
+    create_post "#{cluster.title.parameterize}.md" do
+      frontmatter :yaml,
+        title: cluster.title,
+        description: cluster.long_description
+    end
+  end
+end

@@ -1,3 +1,13 @@
-.sidebar li.active a{
-  color: $main-color;
+.sidebar{
+  li{
+    a{
+      text-align: left;
+    }
+    &.active a{
+      color: $main-color;
+    }
+  }
+}
+p.read-more{
+  margin-top: 0;
 }

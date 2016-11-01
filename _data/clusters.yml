@@ -2,22 +2,85 @@
   item_type: clusters
   slug: special-economical-zone
   slug_with_prefix: 14767-special-economical-zone
-  updated_at: 2016-09-17 11:20:36.946000000 Z
+  updated_at: 2016-10-31 13:19:31.218000000 Z
   position: 6
   title: Special Economical Zone
   short_description: "<p>or the development of a Smart City Punta Perla Pacífico will
     contribute through a Joint venture agreement between 800 and 1200 hectares of
     land for the development of a SEZ.</p>"
+  long_description: "<h2>Punta Palmar Pacífico’s Input: Land for SEZ</h2><p>For the
+    development of a Smart City Punta Palmar Pacífico will contribute through a Joint
+    venture agreement between 800 and 1200 hectares of land for the development of
+    a SEZ, along with an International Cargo Airport, for the necessary specialized
+    support of the logistics and commerce of products produced within the SEZ.</p><p>Water
+    Resources: These lands are located in an area with plenty of water for the development
+    of the SEZ and the Smart City, since it is surrounded by the Seco, Aranjuez, Ciruelas
+    and Guacimal rivers, with up-to-date concessions for extracting water and lands
+    with high water tables. </p>"
 - id: '14766'
   item_type: clusters
   slug: ecologycal-and-medical-tourist-development
   slug_with_prefix: 14766-ecologycal-and-medical-tourist-development
-  updated_at: 2016-09-17 11:20:25.956000000 Z
+  updated_at: 2016-10-31 13:18:42.120000000 Z
   position: 5
   title: Ecologycal and Medical Tourist development
   short_description: "<p>The development of a tourisctic and ecological/Medical center,
     that will include the visitation of the natural wonderings of the mangrove coast
     line.</p>"
+  long_description: "<p>The development of a tourisctic and ecological/Medical center,
+    that will include the visitation of the natural wonderings of the mangrove coast
+    line, a sugar making industrial tour and the development of adventure activities
+    inside a 40 hectare lagoon zone with natural species watching and walking trails.
+    We are also planning a development of a Theme Park that will have all kind of
+    naturalistic attractions of local animal species and plants inside a closed dome
+    and scenery /stage of a large-live ecosystem concept. </p><p><span>An eco lodge
+    and hotel, for the resting and recuperation of patients treated in the medical
+    center is also conceptualized as part of this cluster.</span></p>"
+- id: '14764'
+  item_type: clusters
+  slug: data-center-cluster
+  slug_with_prefix: 14764-data-center-cluster
+  updated_at: 2016-10-31 13:18:29.213000000 Z
+  position: 3
+  title: Data Center Cluster
+  short_description: "<p>The Data Center is expected to attract call center services
+    for companies located within the GAMA (Extended and Greater Metropolitan Area),
+    as well as those outside it and abroad.</p>"
+  long_description: |-
+    <p>
+    The Data Center is expected to attract call center services for companies located within the GAMA (Extended and Greater Metropolitan Area), as well as those outside it and abroad.  Firstly, as a data support and recovery area, management and analytics of Big Data, and Cloud, as it is located at least 48km away from the capital´s main data centers.  In a second phase, foreign investment will be attracted to offer services to the IT giants taking advantage of a power matrix of clean energy, connectivity and qualified human resources, creating a true technological Hub, under collaboration and articulation with the Inter-university Campus and its study programs.</p>
+- id: '14763'
+  item_type: clusters
+  slug: solar-photovoltaic-megapark-cluster
+  slug_with_prefix: 14763-solar-photovoltaic-megapark-cluster
+  updated_at: 2016-10-31 13:18:20.375000000 Z
+  position: 2
+  title: Solar Photovoltaic Megapark Cluster
+  short_description: "<p>The land where this will be located is a sunny place in Costa
+    Rica.</p>"
+  long_description: "<p><span>The land where this will be located is a sunny place
+    in Costa Rica.  Due to this, a solar Photovoltaic Megapark will be developed for
+    the Smart City for it to be 100% sustainable;  it is estimated that the solar
+    park will generate up to 150MW at its peak within a land  extension between 250-300
+    hectares.   A tariff model for is currently being formulated by the ARESEP (the
+    Regulating Authority for Public Services), but it is estimated that it could be
+    around US$ 0.10- 0.12 per kWh.  </span></p><p>Initially, it will operate under
+    a model of distributed generation, whose over-power generation could be placed
+    within the public grid since it so close to the Garabito Thermal Generation and
+    Distribution Plant. This cluster will allow Punta Palmar Pacífico to contribute
+    so Costa Rica can become carbon neutral in the near future by 2020. This initiative
+    will support Costa Rica´s joining of the OECD and the Pacific Alliance. </p>"
+- id: '14762'
+  item_type: clusters
+  slug: university-educational-cluster
+  slug_with_prefix: 14762-university-educational-cluster
+  updated_at: 2016-10-31 13:18:08.465000000 Z
+  position: 1
+  title: University-Educational Cluster
+  short_description: "<p>Creation of qualified human capital.</p>"
+  long_description: |-
+    <p>
+    For this SEZ development, it is crucial to prepare and train qualified personnel who can work in the area.  For this, we wish to create a University Campus with national and international universities who will share resources and facilities between them. Furthermore, the offer of engineering and scientific careers, so these professionals can contribute to the management of knowledge, innovation and technological transfer required by the SEZ center with adequate facilities to carry out research and development in relevant thematic, through a program that promotes entrepreneurship and dual education in areas such as aerospace, atmospheric and climate research, photonics, robotics, biology, pharmaceutics, medicine, environment and energy, among others.  This way, students of this University, can develop their projects and final papers with companies housed in the SEZ.</p>
 - id: '14765'
   item_type: clusters
   slug: medical-general-treatment-and-tourism
@@ -28,30 +91,4 @@
   short_description: "<p>Plantea desarrollar un centro hospitalario en donde se ofrezca
     servicios en todas las áreas médicas, desde las más generales a las más especializadas
     y vanguardistas, caracterizadas por la innovación y excelencia.</p>"
-- id: '14764'
-  item_type: clusters
-  slug: data-center-cluster
-  slug_with_prefix: 14764-data-center-cluster
-  updated_at: 2016-09-17 11:20:05.895000000 Z
-  position: 3
-  title: Data Center Cluster
-  short_description: "<p>The Data Center is expected to attract call center services
-    for companies located within the GAMA (Extended and Greater Metropolitan Area),
-    as well as those outside it and abroad.</p>"
-- id: '14763'
-  item_type: clusters
-  slug: solar-photovoltaic-megapark-cluster
-  slug_with_prefix: 14763-solar-photovoltaic-megapark-cluster
-  updated_at: 2016-09-17 11:19:57.632000000 Z
-  position: 2
-  title: Solar Photovoltaic Megapark Cluster
-  short_description: "<p>The land where this will be located is a sunny place in Costa
-    Rica.</p>"
-- id: '14762'
-  item_type: clusters
-  slug: university-educational-cluster
-  slug_with_prefix: 14762-university-educational-cluster
-  updated_at: 2016-09-17 11:19:46.206000000 Z
-  position: 1
-  title: University-Educational Cluster
-  short_description: "<p>Creation of qualified human capital.</p>"
+  long_description: 
