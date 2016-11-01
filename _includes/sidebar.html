@@ -1,12 +1,12 @@
 {% if page.url contains "participants" %}
   {% assign sidebar_collection =  site.participants %}
   {% assign sidebar_title = "Participants"%}
+{% else if page.url contains "about" %}
+  {% assign sidebar_collection =  site.about | sort: 'weight' %}
+  {% assign sidebar_title = "Project"%}
 {% else if page.url contains "clusters" %}
   {% assign sidebar_collection =  site.clusters %}
   {% assign sidebar_title = "clusters"%}
-{% else %}
-  {% assign sidebar_collection =  site.about | sort: 'weight' %}
-  {% assign sidebar_title = "Project"%}
 {% endif %}
 
 <h2 class="widget-title">{{ sidebar_title | capitalize }}</h2>
