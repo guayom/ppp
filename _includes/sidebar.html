@@ -1,10 +1,10 @@
 {% if page.url contains "participants" %}
   {% assign sidebar_collection =  site.participants %}
   {% assign sidebar_title = "Participants"%}
-{% else if page.url contains "about" %}
+{% elsif page.url contains "about" %}
   {% assign sidebar_collection =  site.about | sort: 'weight' %}
   {% assign sidebar_title = "Project"%}
-{% else if page.url contains "clusters" %}
+{% elsif page.url contains "clusters" %}
   {% assign sidebar_collection =  site.clusters %}
   {% assign sidebar_title = "clusters"%}
 {% endif %}
