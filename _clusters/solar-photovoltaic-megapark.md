@@ -1,5 +1,5 @@
 ---
-title: Solar Photovoltaic Megapark Cluster
+title: Solar Photovoltaic Megapark
 description: "<p><span>The land where this will be located is a sunny place in Costa
   Rica.  Due to this, a solar Photovoltaic Megapark will be developed for the Smart
   City for it to be 100% sustainable;  it is estimated that the solar park will generate

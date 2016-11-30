@@ -26,3 +26,7 @@ object{
   padding-top: 20px;
   margin-left: 20px;
 }
+
+.overlay-light.no-overlay:before{
+  background-color: rgba(0,0,0,0);
+}

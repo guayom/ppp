@@ -1,3 +1,17 @@
+- id: '23202'
+  item_type: slides
+  slug: primer-slide
+  slug_with_prefix: 23202-primer-slide
+  updated_at: 2016-11-30 03:48:42.331000000 Z
+  title: Primer slide
+  image:
+    format: jpg
+    size: 139509
+    url: https://dato-images.imgix.net/288/1480477715-Punta-Perla-Pacifico-ffff.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    width: 2999
+    height: 2324
+  decription: 
+  ocultar_texto: true
 - id: '14761'
   item_type: slides
   slug: zona-industrial-b
@@ -11,6 +25,7 @@
     width: 3740
     height: 2048
   decription: "<p>Descripción de Zona Industrial B</p>"
+  ocultar_texto: 
 - id: '14760'
   item_type: slides
   slug: estadio
@@ -24,3 +39,4 @@
     width: 3740
     height: 2048
   decription: "<p>Foto del estadio</p>"
+  ocultar_texto: 
