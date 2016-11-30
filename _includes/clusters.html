@@ -1,20 +1,23 @@
 <div class="container">
   <div class="row irow-xs">
     {% for cluster in site.data.clusters %}
-    <div class="col-sm-4">
-      <div class="media">
-        <div class="media-left">
-          <div class="icon icon-color icon-size-3" data-hover="rubberBand">
-            <i class="fa fa-check"></i>
+      <div class="col-sm-4">
+        <div class="media">
+          <div class="media-left">
+            <div class="icon icon-color icon-size-3" data-hover="rubberBand">
+              <i class="fa fa-check"></i>
+            </div>
+          </div>
+          <div class="media-body">
+            <h4>{{ cluster.title }}</h4>
+            <p>{{ cluster.short_description }}</p>
+            <p></p>
           </div>
         </div>
-        <div class="media-body">
-          <h4>{{ cluster.title }}</h4>
-          <p>{{ cluster.short_description }}</p>
-          <p></p>
-        </div>
       </div>
-    </div>
+      {% if forloop.index == 3 %}
+        </div><div class="row irow-xs">
+      {% endif %}
     {% endfor %}
   </div>
 </div>
