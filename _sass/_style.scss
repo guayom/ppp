@@ -1,9 +1,9 @@
-/*------------------------------------------------------------------ 
-[ Master Stylesheet ] 
+/*------------------------------------------------------------------
+[ Master Stylesheet ]
 
-Project: Mexico - Responsive Multipurpose Template 
- Version: 1.0 
- Last change: 14/03/15 
+Project: Mexico - Responsive Multipurpose Template
+ Version: 1.0
+ Last change: 14/03/15
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [ Table of contents ]
@@ -6552,7 +6552,7 @@ a.icon.icon-color:hover
 }
 a.navbar-brand
 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: $logo-font;
     font-size: 20px;
     line-height: 73px;
 
@@ -6563,7 +6563,6 @@ a.navbar-brand
     padding: 0;
 
     letter-spacing: 1px;
-    text-transform: uppercase;
 
     color: #fff;
 }
