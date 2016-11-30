@@ -3,10 +3,16 @@
     <ul>
       {% for slide in site.data.slides %}
       <li data-transition="fade" data-slotamount="7" data-saveperformance="on" class="background overlay overlay-light" style="background-image: url({{slide.image.url}});">
-        <div class="tp-caption sft large_bold_white"  data-x="center" data-y="center" data-voffset="-85" data-speed="700" data-start="700" data-easing="easeOutBack">{{slide.title}}
-          <p class="tp-caption fade text-center" data-x="center" data-y="center" data-speed="500" data-start="900" data-easing="easeOutBack">
-            {{slide.decription}}
-          </p>
+        <div class="tp-caption sft large_bold_white"  data-x="center" data-y="center" data-voffset="-85" data-speed="700" data-start="700" data-easing="easeOutBack">
+          <object type="image/svg+xml" data="/images/logo-full.svg">
+            Your browser does not support SVG
+          </object>
+          <div class="tp-text">
+            {{slide.title}}
+            <p class="tp-caption fade text-center" data-x="center" data-y="center" data-speed="500" data-start="900" data-easing="easeOutBack">
+              {{slide.decription}}
+            </p>
+          </div>
         </div>
       </li>
       {% endfor %}
