@@ -11,5 +11,4 @@ permalink: /participants/
   <br/>
   <p class="read-more"><a href="{{ participant.url }}" title="{{ participant.title }}">Read more about {{ participant.title }}</a></p>
   <br/>
-  {{participant.order}}
 {% endfor %}
