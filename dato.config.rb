@@ -86,7 +86,8 @@ directory "_clusters/" do
     create_post "#{cluster.title.parameterize}.md" do
       frontmatter :yaml,
         title: cluster.title,
-        description: cluster.long_description
+        description: cluster.long_description,
+        images: cluster.images
     end
   end
 end

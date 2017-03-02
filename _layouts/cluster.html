@@ -2,3 +2,6 @@
 layout: project
 ---
 {{page.description}}
+{% for image in page.images %}
+<img src="https://dato-images.imgix.net{{image.entity.payload.attributes.image.path}}?w=880" class="img-responsive cluster-images" />
+{% endfor %}

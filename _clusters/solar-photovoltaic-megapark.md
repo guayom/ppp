@@ -12,5 +12,6 @@ description: "<p><span>The land where this will be located is a sunny place in C
   Plant. This cluster will allow Punta Perla Pacífico to contribute so Costa Rica
   can become carbon neutral in the near future by 2020. This initiative will support
   Costa Rica´s joining of the OECD and the Pacific Alliance. </p>"
+images: []
 ---
 

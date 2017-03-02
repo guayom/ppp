@@ -4,7 +4,7 @@ subtitle: Look who's participating in the project
 layout: project
 permalink: /participants/
 ---
- {% assign participants = (site.participants | sort: 'order') %}
+{% assign participants = (site.participants | sort: 'order') %}
 {% for participant in participants %}
   <h2>{{ participant.title}}</h2>
   {{ participant.description | truncatewords: 30 }}

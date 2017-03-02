@@ -11,5 +11,6 @@ description: "<h2>Punta Perla Pacífico’s Input: Land for IPZ</h2><p>For the d
   for the development of the IPZ and the Smart City, since it is surrounded by the
   Seco, Aranjuez, Ciruelas and Guacimal rivers, with up-to-date concessions for extracting
   water and lands with high water tables. </p>"
+images: []
 ---
 

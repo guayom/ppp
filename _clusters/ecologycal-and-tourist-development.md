@@ -9,5 +9,6 @@ description: "<p>The development of a tourisctic and ecological center, that wil
   /stage of a large-live ecosystem concept. </p><p><span>An eco lodge and hotel, for
   the resting and recuperation of patients treated in the medical center is also conceptualized
   as part of this center.</span></p>"
+images: []
 ---
 
