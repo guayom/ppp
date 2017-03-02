@@ -69,12 +69,15 @@ directory "_about/" do
 end
 
 directory "_participants/" do
+  count = 0
   dato.participants.each do |participant|
     create_post "#{participant.name.parameterize}.md" do
       frontmatter :yaml,
         title: participant.name,
-        description: participant.description
+        description: participant.description,
+        order: count
     end
+    count += 1
   end
 end
 

@@ -1,5 +1,5 @@
 {% if page.url contains "participants" %}
-  {% assign sidebar_collection =  site.participants %}
+  {% assign sidebar_collection = (site.participants | sort: 'order') %}
   {% assign sidebar_title = "Participants"%}
 {% elsif page.url contains "about" %}
   {% assign sidebar_collection =  site.about | sort: 'weight' %}

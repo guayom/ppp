@@ -9,5 +9,6 @@ description: "<p>A tourism consulting firm based in Costa Rica, specialized in p
   strong environmental components and high traffic, our professionals are leaders
   with wide knowledge of the national and regional dynamics of the industry, formed
   in ecotourism, sustainable development and hotel management. </p>"
+order: 12
 ---
 
