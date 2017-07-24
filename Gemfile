@@ -2,4 +2,4 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "dato"
+gem "dato", ">=0.3.11"

@@ -1,111 +1,44 @@
-- id: '39532'
-  item_type: plans
-  slug: development-poles
-  slug_with_prefix: 39532-development-poles
-  updated_at: 2017-03-02 01:43:18.853000000 Z
-  position: 11
-  title: Development poles
-  image:
-    format: jpg
-    size: 943286
-    url: https://dato-images.imgix.net/288/1488418894-el-palmar-conjunto-plano-rev6-2015-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
-    width: 1417
-    height: 831
-- id: '32275'
-  item_type: plans
-  slug: hinterland-views
-  slug_with_prefix: 32275-hinterland-views
-  updated_at: 2017-02-03 21:46:57.541000000 Z
-  position: 10
-  title: Hinterland Views
-  image:
-    format: jpg
-    size: 149002
-    url: https://dato-images.imgix.net/288/1486158403-hinterland-views-ii-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
-    width: 790
-    height: 598
-- id: '32272'
-  item_type: plans
-  slug: multiporpuse-terminal-hinterland-facilities
-  slug_with_prefix: 32272-multiporpuse-terminal-hinterland-facilities
-  updated_at: 2017-02-03 21:35:59.362000000 Z
-  position: 9
-  title: Multiporpuse terminal & Hinterland Facilities
-  image:
-    format: jpg
-    size: 72760
-    url: https://dato-images.imgix.net/288/1486157747-multiporpuse-terminal-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
-    width: 762
-    height: 565
-- id: '32271'
-  item_type: plans
-  slug: hinterland-views
-  slug_with_prefix: 32271-hinterland-views
-  updated_at: 2017-02-03 21:34:02.747000000 Z
-  position: 8
-  title: Hinterland views
-  image:
-    format: jpg
-    size: 110562
-    url: https://dato-images.imgix.net/288/1486157631-hinterland-views-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
-    width: 773
-    height: 583
-- id: '32267'
-  item_type: plans
-  slug: cargo-port-view
-  slug_with_prefix: 32267-cargo-port-view
-  updated_at: 2017-02-03 21:24:17.011000000 Z
-  position: 7
-  title: Cargo Port View
-  image:
-    format: jpg
-    size: 110297
-    url: https://dato-images.imgix.net/288/1486157025-cargo-port-views-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
-    width: 770
-    height: 589
 - id: '14783'
   item_type: plans
-  slug: general-overview-of-main-infrastructure
-  slug_with_prefix: 14783-general-overview-of-main-infrastructure
   updated_at: 2016-12-23 22:37:23.292000000 Z
   position: 1
   title: 'General Overview of main infrastructure. '
   image:
     format: jpg
     size: 126001
-    url: https://dato-images.imgix.net/288/1481320527-GeneralTerminal.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1481320527-GeneralTerminal.jpg
     width: 819
     height: 614
+    alt: 
+    title: 
 - id: '14784'
   item_type: plans
-  slug: recreative-commercial-retail-zone
-  slug_with_prefix: 14784-recreative-commercial-retail-zone
   updated_at: 2016-12-23 22:37:23.276000000 Z
   position: 2
   title: Recreative / Commercial & Retail Zone
   image:
     format: jpg
     size: 202505
-    url: https://dato-images.imgix.net/288/1474129123-recreative-zone.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1474129123-recreative-zone.jpg
     width: 1200
     height: 731
+    alt: 
+    title: 
 - id: '14785'
   item_type: plans
-  slug: industrial-zone-a
-  slug_with_prefix: 14785-industrial-zone-a
   updated_at: 2016-12-23 22:37:23.269000000 Z
   position: 3
   title: Industrial Zone A
   image:
     format: jpg
     size: 211055
-    url: https://dato-images.imgix.net/288/1474129143-industrial-zone-a.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1474129143-industrial-zone-a.jpg
     width: 1200
     height: 731
+    alt: 
+    title: 
 - id: '14786'
   item_type: plans
-  slug: industrial-zone-b-establishment-of-an-industrial-an
-  slug_with_prefix: 14786-industrial-zone-b-establishment-of-an-industrial-an
   updated_at: 2016-12-23 22:37:23.262000000 Z
   position: 4
   title: 'Industrial Zone B : Establishment of an Industrial and Trading Park, it
@@ -114,13 +47,13 @@
   image:
     format: jpg
     size: 201148
-    url: https://dato-images.imgix.net/288/1474129171-industrial-zone-b.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1474129171-industrial-zone-b.jpg
     width: 1200
     height: 731
+    alt: 
+    title: 
 - id: '24424'
   item_type: plans
-  slug: stadium-and-sport-center-our-smart-city-will-have-a
-  slug_with_prefix: 24424-stadium-and-sport-center-our-smart-city-will-have-a
   updated_at: 2016-12-23 22:37:23.255000000 Z
   position: 5
   title: 'Stadium and sport center: Our Smart City will have a new soccer and field
@@ -129,19 +62,86 @@
   image:
     format: jpg
     size: 47726
-    url: https://dato-images.imgix.net/288/1481319075-Stadium.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1481319075-Stadium.jpg
     width: 527
     height: 303
+    alt: 
+    title: 
 - id: '24426'
   item_type: plans
-  slug: master-plan
-  slug_with_prefix: 24426-master-plan
   updated_at: 2016-12-23 22:37:23.248000000 Z
   position: 6
   title: Master Plan
   image:
     format: jpg
     size: 116630
-    url: https://dato-images.imgix.net/288/1481320656-PPP-Imagen3.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1481320656-PPP-Imagen3.jpg
     width: 1058
     height: 793
+    alt: 
+    title: 
+- id: '32267'
+  item_type: plans
+  updated_at: 2017-02-03 21:24:17.011000000 Z
+  position: 7
+  title: Cargo Port View
+  image:
+    format: jpg
+    size: 110297
+    url: https://www.datocms-assets.com/288/1486157025-cargo-port-views-jpg
+    width: 770
+    height: 589
+    alt: 
+    title: 
+- id: '32271'
+  item_type: plans
+  updated_at: 2017-02-03 21:34:02.747000000 Z
+  position: 8
+  title: Hinterland views
+  image:
+    format: jpg
+    size: 110562
+    url: https://www.datocms-assets.com/288/1486157631-hinterland-views-jpg
+    width: 773
+    height: 583
+    alt: 
+    title: 
+- id: '32272'
+  item_type: plans
+  updated_at: 2017-02-03 21:35:59.362000000 Z
+  position: 9
+  title: Multiporpuse terminal & Hinterland Facilities
+  image:
+    format: jpg
+    size: 72760
+    url: https://www.datocms-assets.com/288/1486157747-multiporpuse-terminal-jpg
+    width: 762
+    height: 565
+    alt: 
+    title: 
+- id: '32275'
+  item_type: plans
+  updated_at: 2017-02-03 21:46:57.541000000 Z
+  position: 10
+  title: Hinterland Views
+  image:
+    format: jpg
+    size: 149002
+    url: https://www.datocms-assets.com/288/1486158403-hinterland-views-ii-jpg
+    width: 790
+    height: 598
+    alt: 
+    title: 
+- id: '39532'
+  item_type: plans
+  updated_at: 2017-03-02 01:43:18.853000000 Z
+  position: 11
+  title: Development poles
+  image:
+    format: jpg
+    size: 943286
+    url: https://www.datocms-assets.com/288/1488418894-el-palmar-conjunto-plano-rev6-2015-jpg
+    width: 1417
+    height: 831
+    alt: 
+    title: 

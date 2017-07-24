@@ -1,47 +1,5 @@
-- id: '14782'
-  item_type: program_data_charts
-  slug: housing
-  slug_with_prefix: 14782-housing
-  updated_at: 2016-09-17 15:49:55.287000000 Z
-  position: 4
-  title: HOUSING
-  subtitle: ''
-  occupancy: 10778
-  automoviles: 96441
-  population: 96441
-  lot: 149
-  construction: 4056231
-- id: '14781'
-  item_type: program_data_charts
-  slug: drivers-level-3
-  slug_with_prefix: 14781-drivers-level-3
-  updated_at: 2016-09-17 15:49:07.242000000 Z
-  position: 3
-  title: DRIVERS LEVEL 3
-  subtitle: "(Strip Shopping Centers, Entertaining, Theme Park,Country Club, Polo
-    Court)"
-  occupancy: 4071
-  automoviles: 1549
-  population: 
-  lot: 194
-  construction: 564568
-- id: '14780'
-  item_type: program_data_charts
-  slug: drivers-level-2
-  slug_with_prefix: 14780-drivers-level-2
-  updated_at: 2016-09-17 15:48:27.653000000 Z
-  position: 2
-  title: DRIVERS LEVEL 2
-  subtitle: "(Recycling, Education, Health,Town Center and Retail, Food & Drink)"
-  occupancy: 33288
-  automoviles: 7051
-  population: 40916
-  lot: 969
-  construction: 608433
 - id: '14779'
   item_type: program_data_charts
-  slug: drivers-level-1
-  slug_with_prefix: 14779-drivers-level-1
   updated_at: 2016-09-17 15:47:56.350000000 Z
   position: 1
   title: DRIVERS LEVEL 1
@@ -52,3 +10,37 @@
   population: 113461
   lot: 461
   construction: 464405
+- id: '14780'
+  item_type: program_data_charts
+  updated_at: 2016-09-17 15:48:27.653000000 Z
+  position: 2
+  title: DRIVERS LEVEL 2
+  subtitle: "(Recycling, Education, Health,Town Center and Retail, Food & Drink)"
+  occupancy: 33288
+  automoviles: 7051
+  population: 40916
+  lot: 969
+  construction: 608433
+- id: '14781'
+  item_type: program_data_charts
+  updated_at: 2016-09-17 15:49:07.242000000 Z
+  position: 3
+  title: DRIVERS LEVEL 3
+  subtitle: "(Strip Shopping Centers, Entertaining, Theme Park,Country Club, Polo
+    Court)"
+  occupancy: 4071
+  automoviles: 1549
+  population: 
+  lot: 194
+  construction: 564568
+- id: '14782'
+  item_type: program_data_charts
+  updated_at: 2016-09-17 15:49:55.287000000 Z
+  position: 4
+  title: HOUSING
+  subtitle: ''
+  occupancy: 10778
+  automoviles: 96441
+  population: 96441
+  lot: 149
+  construction: 4056231

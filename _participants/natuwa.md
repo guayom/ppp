@@ -11,6 +11,6 @@ description: "<h3><i><i><i>MACAW SANCTUARY NATUWA</i></i></i><br></h3><p><i><i><
   with Punta Perla Pacifico in the development of a conceptual plan of our Theme Park
   with regards to animal protection, careing, reproduction and exihibition of Costa
   Rica's native species.  </i></i></i></p>"
-order: 9
+order: 5
 ---
 

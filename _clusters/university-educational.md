@@ -70,7 +70,7 @@ images:
                 last_data_change_at: '2017-03-02T01:57:36.171Z'
                 production_last_deploy_at: '2017-03-02T01:57:40.803Z'
                 staging_last_deploy_at: 
-                last_dump_at: '2017-03-02T02:47:25.129Z'
+                last_dump_at: '2017-07-24T03:25:35.442Z'
                 deployable: true
                 production_deploy_status: success
                 staging_deploy_status: unstarted
@@ -1330,7 +1330,7 @@ images:
                   data: 
             data_source: *1
           '39533': *2
-          '39532': &19 !ruby/object:Dato::Local::JsonApiEntity
+          '39532': &32 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39532'
               type: item
@@ -1456,7 +1456,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '32275': &23 !ruby/object:Dato::Local::JsonApiEntity
+          '32275': &31 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32275'
               type: item
@@ -1481,7 +1481,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '32272': &24 !ruby/object:Dato::Local::JsonApiEntity
+          '32272': &30 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32272'
               type: item
@@ -1506,7 +1506,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '32271': &25 !ruby/object:Dato::Local::JsonApiEntity
+          '32271': &29 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32271'
               type: item
@@ -1531,7 +1531,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '32267': &26 !ruby/object:Dato::Local::JsonApiEntity
+          '32267': &28 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32267'
               type: item
@@ -1634,7 +1634,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '30901': &82 !ruby/object:Dato::Local::JsonApiEntity
+          '30901': &101 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '30901'
               type: item
@@ -1655,7 +1655,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '27341': &87 !ruby/object:Dato::Local::JsonApiEntity
+          '27341': &100 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '27341'
               type: item
@@ -1674,7 +1674,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '27340': &88 !ruby/object:Dato::Local::JsonApiEntity
+          '27340': &99 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '27340'
               type: item
@@ -1695,7 +1695,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '27339': &89 !ruby/object:Dato::Local::JsonApiEntity
+          '27339': &98 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '27339'
               type: item
@@ -1719,7 +1719,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '27338': &90 !ruby/object:Dato::Local::JsonApiEntity
+          '27338': &97 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '27338'
               type: item
@@ -1740,7 +1740,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14752': &91 !ruby/object:Dato::Local::JsonApiEntity
+          '14752': &82 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14752'
               type: item
@@ -1779,7 +1779,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '24429': &92 !ruby/object:Dato::Local::JsonApiEntity
+          '24429': &93 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '24429'
               type: item
@@ -1806,7 +1806,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '27335': &93 !ruby/object:Dato::Local::JsonApiEntity
+          '27335': &94 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '27335'
               type: item
@@ -1825,7 +1825,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14758': &94 !ruby/object:Dato::Local::JsonApiEntity
+          '14758': &92 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14758'
               type: item
@@ -1855,7 +1855,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14757': &95 !ruby/object:Dato::Local::JsonApiEntity
+          '14757': &91 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14757'
               type: item
@@ -1905,7 +1905,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '27336': &97 !ruby/object:Dato::Local::JsonApiEntity
+          '27336': &95 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '27336'
               type: item
@@ -1924,7 +1924,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14767': &57 !ruby/object:Dato::Local::JsonApiEntity
+          '14767': &61 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14767'
               type: item
@@ -2198,7 +2198,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14766': &58 !ruby/object:Dato::Local::JsonApiEntity
+          '14766': &60 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14766'
               type: item
@@ -2232,7 +2232,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14783': &27 !ruby/object:Dato::Local::JsonApiEntity
+          '14783': &19 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14783'
               type: item
@@ -2257,7 +2257,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14784': &28 !ruby/object:Dato::Local::JsonApiEntity
+          '14784': &23 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14784'
               type: item
@@ -2282,7 +2282,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14785': &29 !ruby/object:Dato::Local::JsonApiEntity
+          '14785': &24 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14785'
               type: item
@@ -2307,7 +2307,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14786': &30 !ruby/object:Dato::Local::JsonApiEntity
+          '14786': &25 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14786'
               type: item
@@ -2334,7 +2334,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '24424': &31 !ruby/object:Dato::Local::JsonApiEntity
+          '24424': &26 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '24424'
               type: item
@@ -2362,7 +2362,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '24426': &32 !ruby/object:Dato::Local::JsonApiEntity
+          '24426': &27 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '24426'
               type: item
@@ -2491,7 +2491,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14763': &59 !ruby/object:Dato::Local::JsonApiEntity
+          '14763': &57 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14763'
               type: item
@@ -2527,7 +2527,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14765': &60 !ruby/object:Dato::Local::JsonApiEntity
+          '14765': &59 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14765'
               type: item
@@ -2551,7 +2551,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14764': &61 !ruby/object:Dato::Local::JsonApiEntity
+          '14764': &58 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14764'
               type: item
@@ -2604,7 +2604,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14782': &33 !ruby/object:Dato::Local::JsonApiEntity
+          '14782': &44 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14782'
               type: item
@@ -2627,7 +2627,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14781': &42 !ruby/object:Dato::Local::JsonApiEntity
+          '14781': &43 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14781'
               type: item
@@ -2651,7 +2651,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14780': &43 !ruby/object:Dato::Local::JsonApiEntity
+          '14780': &42 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14780'
               type: item
@@ -2675,7 +2675,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14779': &44 !ruby/object:Dato::Local::JsonApiEntity
+          '14779': &33 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14779'
               type: item
@@ -2699,7 +2699,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14756': &98 !ruby/object:Dato::Local::JsonApiEntity
+          '14756': &90 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14756'
               type: item
@@ -2728,7 +2728,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14755': &99 !ruby/object:Dato::Local::JsonApiEntity
+          '14755': &89 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14755'
               type: item
@@ -2773,7 +2773,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14754': &100 !ruby/object:Dato::Local::JsonApiEntity
+          '14754': &88 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14754'
               type: item
@@ -2798,7 +2798,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14753': &101 !ruby/object:Dato::Local::JsonApiEntity
+          '14753': &87 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14753'
               type: item
@@ -2873,77 +2873,77 @@ images:
         fields:
         - *18
       :plans: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &109 !ruby/object:Dato::Local::Item
+      - &137 !ruby/object:Dato::Local::Item
         entity: *19
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &114 !ruby/object:Dato::Local::Item
+      - &138 !ruby/object:Dato::Local::Item
         entity: *23
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &115 !ruby/object:Dato::Local::Item
+      - &139 !ruby/object:Dato::Local::Item
         entity: *24
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &116 !ruby/object:Dato::Local::Item
+      - &140 !ruby/object:Dato::Local::Item
         entity: *25
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &117 !ruby/object:Dato::Local::Item
+      - &141 !ruby/object:Dato::Local::Item
         entity: *26
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &137 !ruby/object:Dato::Local::Item
+      - &142 !ruby/object:Dato::Local::Item
         entity: *27
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &138 !ruby/object:Dato::Local::Item
+      - &117 !ruby/object:Dato::Local::Item
         entity: *28
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &139 !ruby/object:Dato::Local::Item
+      - &116 !ruby/object:Dato::Local::Item
         entity: *29
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &140 !ruby/object:Dato::Local::Item
+      - &115 !ruby/object:Dato::Local::Item
         entity: *30
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &141 !ruby/object:Dato::Local::Item
+      - &114 !ruby/object:Dato::Local::Item
         entity: *31
         items_repo: *4
         item_type: *20
         fields:
         - *21
         - *22
-      - &142 !ruby/object:Dato::Local::Item
+      - &109 !ruby/object:Dato::Local::Item
         entity: *32
         items_repo: *4
         item_type: *20
@@ -2951,7 +2951,7 @@ images:
         - *21
         - *22
       :program_data_charts: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &151 !ruby/object:Dato::Local::Item
+      - &154 !ruby/object:Dato::Local::Item
         entity: *33
         items_repo: *4
         item_type: *34
@@ -2963,7 +2963,7 @@ images:
         - *39
         - *40
         - *41
-      - &152 !ruby/object:Dato::Local::Item
+      - &153 !ruby/object:Dato::Local::Item
         entity: *42
         items_repo: *4
         item_type: *34
@@ -2975,7 +2975,7 @@ images:
         - *39
         - *40
         - *41
-      - &153 !ruby/object:Dato::Local::Item
+      - &152 !ruby/object:Dato::Local::Item
         entity: *43
         items_repo: *4
         item_type: *34
@@ -2987,7 +2987,7 @@ images:
         - *39
         - *40
         - *41
-      - &154 !ruby/object:Dato::Local::Item
+      - &151 !ruby/object:Dato::Local::Item
         entity: *44
         items_repo: *4
         item_type: *34
@@ -3018,7 +3018,7 @@ images:
         - *54
         - *55
         - *56
-      - &133 !ruby/object:Dato::Local::Item
+      - &147 !ruby/object:Dato::Local::Item
         entity: *57
         items_repo: *4
         item_type: *52
@@ -3027,7 +3027,7 @@ images:
         - *54
         - *55
         - *56
-      - &136 !ruby/object:Dato::Local::Item
+      - &149 !ruby/object:Dato::Local::Item
         entity: *58
         items_repo: *4
         item_type: *52
@@ -3036,7 +3036,7 @@ images:
         - *54
         - *55
         - *56
-      - &147 !ruby/object:Dato::Local::Item
+      - &148 !ruby/object:Dato::Local::Item
         entity: *59
         items_repo: *4
         item_type: *52
@@ -3045,7 +3045,7 @@ images:
         - *54
         - *55
         - *56
-      - &148 !ruby/object:Dato::Local::Item
+      - &136 !ruby/object:Dato::Local::Item
         entity: *60
         items_repo: *4
         item_type: *52
@@ -3054,7 +3054,7 @@ images:
         - *54
         - *55
         - *56
-      - &149 !ruby/object:Dato::Local::Item
+      - &133 !ruby/object:Dato::Local::Item
         entity: *61
         items_repo: *4
         item_type: *52
@@ -3171,7 +3171,7 @@ images:
         - *80
         - *81
       :participants: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &121 !ruby/object:Dato::Local::Item
+      - &126 !ruby/object:Dato::Local::Item
         entity: *82
         items_repo: *4
         item_type: *83
@@ -3179,7 +3179,7 @@ images:
         - *84
         - *85
         - *86
-      - &122 !ruby/object:Dato::Local::Item
+      - &158 !ruby/object:Dato::Local::Item
         entity: *87
         items_repo: *4
         item_type: *83
@@ -3187,7 +3187,7 @@ images:
         - *84
         - *85
         - *86
-      - &123 !ruby/object:Dato::Local::Item
+      - &157 !ruby/object:Dato::Local::Item
         entity: *88
         items_repo: *4
         item_type: *83
@@ -3195,7 +3195,7 @@ images:
         - *84
         - *85
         - *86
-      - &124 !ruby/object:Dato::Local::Item
+      - &156 !ruby/object:Dato::Local::Item
         entity: *89
         items_repo: *4
         item_type: *83
@@ -3203,7 +3203,7 @@ images:
         - *84
         - *85
         - *86
-      - &125 !ruby/object:Dato::Local::Item
+      - &155 !ruby/object:Dato::Local::Item
         entity: *90
         items_repo: *4
         item_type: *83
@@ -3211,7 +3211,7 @@ images:
         - *84
         - *85
         - *86
-      - &126 !ruby/object:Dato::Local::Item
+      - &130 !ruby/object:Dato::Local::Item
         entity: *91
         items_repo: *4
         item_type: *83
@@ -3219,7 +3219,7 @@ images:
         - *84
         - *85
         - *86
-      - &127 !ruby/object:Dato::Local::Item
+      - &129 !ruby/object:Dato::Local::Item
         entity: *92
         items_repo: *4
         item_type: *83
@@ -3227,7 +3227,7 @@ images:
         - *84
         - *85
         - *86
-      - &128 !ruby/object:Dato::Local::Item
+      - &127 !ruby/object:Dato::Local::Item
         entity: *93
         items_repo: *4
         item_type: *83
@@ -3235,7 +3235,7 @@ images:
         - *84
         - *85
         - *86
-      - &129 !ruby/object:Dato::Local::Item
+      - &128 !ruby/object:Dato::Local::Item
         entity: *94
         items_repo: *4
         item_type: *83
@@ -3243,7 +3243,7 @@ images:
         - *84
         - *85
         - *86
-      - &130 !ruby/object:Dato::Local::Item
+      - &132 !ruby/object:Dato::Local::Item
         entity: *95
         items_repo: *4
         item_type: *83
@@ -3259,7 +3259,7 @@ images:
         - *84
         - *85
         - *86
-      - &132 !ruby/object:Dato::Local::Item
+      - &125 !ruby/object:Dato::Local::Item
         entity: *97
         items_repo: *4
         item_type: *83
@@ -3267,7 +3267,7 @@ images:
         - *84
         - *85
         - *86
-      - &155 !ruby/object:Dato::Local::Item
+      - &124 !ruby/object:Dato::Local::Item
         entity: *98
         items_repo: *4
         item_type: *83
@@ -3275,7 +3275,7 @@ images:
         - *84
         - *85
         - *86
-      - &156 !ruby/object:Dato::Local::Item
+      - &123 !ruby/object:Dato::Local::Item
         entity: *99
         items_repo: *4
         item_type: *83
@@ -3283,7 +3283,7 @@ images:
         - *84
         - *85
         - *86
-      - &157 !ruby/object:Dato::Local::Item
+      - &122 !ruby/object:Dato::Local::Item
         entity: *100
         items_repo: *4
         item_type: *83
@@ -3291,7 +3291,7 @@ images:
         - *84
         - *85
         - *86
-      - &158 !ruby/object:Dato::Local::Item
+      - &121 !ruby/object:Dato::Local::Item
         entity: *101
         items_repo: *4
         item_type: *83
@@ -3359,39 +3359,17 @@ images:
       '14754': *157
       '14753': *158
     item_type_methods:
-      *5:
-      - :cluster_images
-      - false
-      *13:
-      - :executive_summary
-      - true
-      *159:
-      - :small_slides
-      - false
-      *17:
-      - :small_description
-      - true
-      *20:
-      - :plans
-      - false
-      *34:
-      - :program_data_charts
-      - false
-      *46:
-      - :contacto
-      - true
-      *52:
-      - :clusters
-      - false
-      *63:
-      - :slides
-      - false
-      *79:
-      - :introduction
-      - true
-      *83:
-      - :participants
-      - false
+      *5: :cluster_images
+      *13: :executive_summary
+      *159: :small_slides
+      *17: :small_description
+      *20: :plans
+      *34: :program_data_charts
+      *46: :contacto
+      *52: :clusters
+      *63: :slides
+      *79: :introduction
+      *83: :participants
   item_type: *5
   fields:
   - *6

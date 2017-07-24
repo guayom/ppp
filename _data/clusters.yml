@@ -1,7 +1,5 @@
 - id: '14762'
   item_type: clusters
-  slug: university-educational
-  slug_with_prefix: 14762-university-educational
   updated_at: 2017-03-02 01:49:21.628000000 Z
   position: 1
   title: University-Educational
@@ -12,108 +10,61 @@
   images:
   - id: '39533'
     item_type: cluster_images
-    slug: '39533'
-    slug_with_prefix: '39533'
     updated_at: 2017-03-02 01:45:24.980000000 Z
     image:
       format: jpg
       size: 3028702
-      url: https://dato-images.imgix.net/288/1488419105-3d-view-2-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+      url: https://www.datocms-assets.com/288/1488419105-3d-view-2-jpg
       width: 3200
       height: 1200
+      alt: 
+      title: 
   - id: '39534'
     item_type: cluster_images
-    slug: '39534'
-    slug_with_prefix: '39534'
     updated_at: 2017-03-02 01:45:55.692000000 Z
     image:
       format: jpg
       size: 3225895
-      url: https://dato-images.imgix.net/288/1488419132-3d-view-4-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+      url: https://www.datocms-assets.com/288/1488419132-3d-view-4-jpg
       width: 3200
       height: 1500
+      alt: 
+      title: 
   - id: '39535'
     item_type: cluster_images
-    slug: '39535'
-    slug_with_prefix: '39535'
     updated_at: 2017-03-02 01:46:51.901000000 Z
     image:
       format: jpg
       size: 3819448
-      url: https://dato-images.imgix.net/288/1488419163-3d-view-5-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+      url: https://www.datocms-assets.com/288/1488419163-3d-view-5-jpg
       width: 3200
       height: 1500
+      alt: 
+      title: 
   - id: '39536'
     item_type: cluster_images
-    slug: '39536'
-    slug_with_prefix: '39536'
     updated_at: 2017-03-02 01:47:56.555000000 Z
     image:
       format: jpg
       size: 1501141
-      url: https://dato-images.imgix.net/288/1488419260-3d-view-10-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+      url: https://www.datocms-assets.com/288/1488419260-3d-view-10-jpg
       width: 1200
       height: 2000
+      alt: 
+      title: 
   - id: '39537'
     item_type: cluster_images
-    slug: '39537'
-    slug_with_prefix: '39537'
     updated_at: 2017-03-02 01:49:14.104000000 Z
     image:
       format: jpg
       size: 4117330
-      url: https://dato-images.imgix.net/288/1488419298-3d-view-7_2-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+      url: https://www.datocms-assets.com/288/1488419298-3d-view-7_2-jpg
       width: 3200
       height: 1800
-- id: '14767'
-  item_type: clusters
-  slug: industrial-park-zone
-  slug_with_prefix: 14767-industrial-park-zone
-  updated_at: 2017-01-02 22:57:02.132000000 Z
-  position: 6
-  title: 'Industrial Park Zone. '
-  short_description: <p>An IPZ (Industrial Park Zone) development for the attraction
-    of IDI (Investigation, Development and Innovation) agencies, manufacture and services
-    industries with an interaction "chained" system with the  Pymes (small, and medium
-    sized industries) cluster.</p>
-  long_description: "<h2>Punta Perla Pacífico’s Input: Land for IPZ</h2><p>For the
-    development of a Smart City Punta Perla Pacífico will contribute through a Joint
-    venture agreement between 800 and 1200 hectares of land for the development of
-    a large IPZ (Industrial Park Zone), along with an International Cargo Airport,
-    for the necessary specialized support of the logistics and commerce (export-import)
-    of products produced within the IPZ and the importation of all kind of goods and
-    raw materials.A  large storage distribuition and logistics park of asian products
-    is also conceptualized in the IPZ.</p><p>Water Resources: These lands are located
-    in an area with plenty of water for the development of the IPZ and the Smart City,
-    since it is surrounded by the Seco, Aranjuez, Ciruelas and Guacimal rivers, with
-    up-to-date concessions for extracting water and lands with high water tables.
-    </p>"
-  images: []
-- id: '14766'
-  item_type: clusters
-  slug: ecologycal-and-tourist-development
-  slug_with_prefix: 14766-ecologycal-and-tourist-development
-  updated_at: 2016-12-27 21:00:03.784000000 Z
-  position: 5
-  title: Ecologycal and  Tourist development
-  short_description: "<p>The development of a tourisctic and ecological center, that
-    will include the visitation of the natural wonderings of the mangrove coast line.
-    The creation of a Theme Park, showing the  wonders of Costa Rica´s wild life and
-    animal protection programs and breeding.</p>"
-  long_description: "<p>The development of a tourisctic and ecological center, that
-    will include the visitation of the natural wonderings of the mangrove coast line
-    and access to the beach of Puntarenas. The development of adventure activities
-    inside a 40 hectare lagoon zone with natural species watching and walking trails.
-    We are also planning a development of a Theme Park that will have all kind of
-    naturalistic attractions of local animal species and plants inside a closed dome
-    and scenery /stage of a large-live ecosystem concept. </p><p><span>An eco lodge
-    and hotel, for the resting and recuperation of patients treated in the medical
-    center is also conceptualized as part of this center.</span></p>"
-  images: []
+      alt: 
+      title: 
 - id: '14763'
   item_type: clusters
-  slug: solar-photovoltaic-megapark
-  slug_with_prefix: 14763-solar-photovoltaic-megapark
   updated_at: 2016-12-22 18:39:10.227000000 Z
   position: 2
   title: Solar Photovoltaic Megapark
@@ -133,23 +84,8 @@
     This initiative will support Costa Rica´s joining of the OECD and the Pacific
     Alliance. </p>"
   images: []
-- id: '14765'
-  item_type: clusters
-  slug: medical-general-treatment-and-tourism
-  slug_with_prefix: 14765-medical-general-treatment-and-tourism
-  updated_at: 2016-12-22 18:27:51.116000000 Z
-  position: 4
-  title: Medical General Treatment and Tourism
-  short_description: "<p>The creation of worldclass medical services along with tourist
-    relaxation facilities and attractions.</p>"
-  long_description: "<p><span>Punta Perla Pacifico Smart City, will develop  a Hospital
-    Center for various medical services and  specialized treatments along with recuperation
-    programs within tourist activitities and relaxation facilities.</span></p>"
-  images: []
 - id: '14764'
   item_type: clusters
-  slug: data-center
-  slug_with_prefix: 14764-data-center
   updated_at: 2016-12-09 22:34:42.083000000 Z
   position: 3
   title: Data Center
@@ -159,4 +95,56 @@
   long_description: |-
     <p>
     The Data Center is expected to attract call center and ITservices for companies located within the GAMA (Extended and Greater Metropolitan Area), as well as those outside it and abroad.  Firstly, as a data support and recovery area, management and analytics of Big Data, and Cloud, as it is located  60km away from the capital´s main data centers.  In a second phase, foreign investment will be attracted to offer services to the IT giants taking advantage of a power matrix of clean energy, connectivity and qualified human resources, creating a true technological Hub, under collaboration and articulation with the Inter-university "Educational Cluster" Campus and its study programs.</p>
+  images: []
+- id: '14765'
+  item_type: clusters
+  updated_at: 2016-12-22 18:27:51.116000000 Z
+  position: 4
+  title: Medical General Treatment and Tourism
+  short_description: "<p>The creation of worldclass medical services along with tourist
+    relaxation facilities and attractions.</p>"
+  long_description: "<p><span>Punta Perla Pacifico Smart City, will develop  a Hospital
+    Center for various medical services and  specialized treatments along with recuperation
+    programs within tourist activitities and relaxation facilities.</span></p>"
+  images: []
+- id: '14766'
+  item_type: clusters
+  updated_at: 2016-12-27 21:00:03.784000000 Z
+  position: 5
+  title: Ecologycal and  Tourist development
+  short_description: "<p>The development of a tourisctic and ecological center, that
+    will include the visitation of the natural wonderings of the mangrove coast line.
+    The creation of a Theme Park, showing the  wonders of Costa Rica´s wild life and
+    animal protection programs and breeding.</p>"
+  long_description: "<p>The development of a tourisctic and ecological center, that
+    will include the visitation of the natural wonderings of the mangrove coast line
+    and access to the beach of Puntarenas. The development of adventure activities
+    inside a 40 hectare lagoon zone with natural species watching and walking trails.
+    We are also planning a development of a Theme Park that will have all kind of
+    naturalistic attractions of local animal species and plants inside a closed dome
+    and scenery /stage of a large-live ecosystem concept. </p><p><span>An eco lodge
+    and hotel, for the resting and recuperation of patients treated in the medical
+    center is also conceptualized as part of this center.</span></p>"
+  images: []
+- id: '14767'
+  item_type: clusters
+  updated_at: 2017-01-02 22:57:02.132000000 Z
+  position: 6
+  title: 'Industrial Park Zone. '
+  short_description: <p>An IPZ (Industrial Park Zone) development for the attraction
+    of IDI (Investigation, Development and Innovation) agencies, manufacture and services
+    industries with an interaction "chained" system with the  Pymes (small, and medium
+    sized industries) cluster.</p>
+  long_description: "<h2>Punta Perla Pacífico’s Input: Land for IPZ</h2><p>For the
+    development of a Smart City Punta Perla Pacífico will contribute through a Joint
+    venture agreement between 800 and 1200 hectares of land for the development of
+    a large IPZ (Industrial Park Zone), along with an International Cargo Airport,
+    for the necessary specialized support of the logistics and commerce (export-import)
+    of products produced within the IPZ and the importation of all kind of goods and
+    raw materials.A  large storage distribuition and logistics park of asian products
+    is also conceptualized in the IPZ.</p><p>Water Resources: These lands are located
+    in an area with plenty of water for the development of the IPZ and the Smart City,
+    since it is surrounded by the Seco, Aranjuez, Ciruelas and Guacimal rivers, with
+    up-to-date concessions for extracting water and lands with high water tables.
+    </p>"
   images: []

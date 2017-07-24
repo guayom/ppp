@@ -5,6 +5,6 @@ description: "<p> Este programa se basa enel diseño y planeamiento con la aseso
   que ayudara y dará confianza a los inversionistas de los alcances de PPP en su private
   placement plan, sin perjuicio de poder convertirse en una compañía publica en el
   futuro.<span> </span></p>"
-order: 3
+order: 12
 ---
 

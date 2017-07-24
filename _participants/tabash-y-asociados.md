@@ -22,6 +22,6 @@ description: "<p>Tabash y Asociados has been in charge of managing financial sol
   needed in order to negotiate the land. &gt; c) the third task will be to raise the
   capital needed to buy the land and carry out the required studies for the execution
   of the project.</p>"
-order: 13
+order: 3
 ---
 

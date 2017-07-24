@@ -1,61 +1,5 @@
-- id: '30901'
-  item_type: participants
-  slug: michael-graves-architecture-design
-  slug_with_prefix: 30901-michael-graves-architecture-design
-  updated_at: 2017-01-27 21:31:35.437000000 Z
-  position: 16
-  name: Michael Graves Architecture & Design
-  description: "<p>Michael Graves Architecture & Design focuses on how people live,
-    \ work and play to create enduring, deeply human design solutions.</p>"
-  subtitle: 
-- id: '27341'
-  item_type: participants
-  slug: zurcher-odio-y-raven
-  slug_with_prefix: 27341-zurcher-odio-y-raven
-  updated_at: 2017-01-27 21:16:06.346000000 Z
-  position: 15
-  name: 'Zurcher,  Odio y Raven '
-  description: "<p>Legal council.</p>"
-  subtitle: 
-- id: '27340'
-  item_type: participants
-  slug: camapymes
-  slug_with_prefix: 27340-camapymes
-  updated_at: 2017-01-27 21:14:20.729000000 Z
-  position: 14
-  name: Camapymes
-  description: "<p>Parque Pymes y encadenamientos,que actuarían como enlazadoras y
-    suplidoras con sus productos y servicios a las grandes firmas que se ubicarían
-    dentro de la IPZ.</p>"
-  subtitle: 
-- id: '27339'
-  item_type: participants
-  slug: programa-mapa
-  slug_with_prefix: 27339-programa-mapa
-  updated_at: 2017-01-27 21:12:03.128000000 Z
-  position: 13
-  name: 'Programa MAPA '
-  description: "<p> Este programa se basa enel diseño y planeamiento con la asesoría
-    de  Bolsa Nacional de Valores deCosta Rica de un mercado alternativo de acciones,
-    que ayudara y dará confianza a los inversionistas de los alcances de PPP en su
-    private placement plan, sin perjuicio de poder convertirse en una compañía publica
-    en el futuro.<span> </span></p>"
-  subtitle: 
-- id: '27338'
-  item_type: participants
-  slug: banco-improsa
-  slug_with_prefix: 27338-banco-improsa
-  updated_at: 2017-01-27 21:05:34.148000000 Z
-  position: 12
-  name: 'Banco Improsa  '
-  description: |-
-    <p>Trust accounts.</p><p>Improsa Bank began operations in 1986 as Financiera Improsa. Nine years later, the financial institution becomes Banco Improsa and in 2000 Grupo Financiero Improsa, S.A. It consolidates its ten subsidiaries through which it provides financial services in Costa Rica and throughout Central America. Its services include banking, leasing, stock exchange services, trust accounts, insurance marketing, investment fund management and investment banking, among others.</p><p><br></p>
-    <p><br></p>
-  subtitle: 
 - id: '14752'
   item_type: participants
-  slug: pacific-tree-s-a
-  slug_with_prefix: 14752-pacific-tree-s-a
   updated_at: 2017-01-27 20:42:26.094000000 Z
   position: 1
   name: Pacific Tree S.A.
@@ -77,107 +21,31 @@
     areas- commercial and industrial. We  will invite sub-development companies to
     invest, design and develop specific sections within and for said development poles.-</span></p>"
   subtitle: 
-- id: '24429'
+- id: '14753'
   item_type: participants
-  slug: newmark-grubb-central-america
-  slug_with_prefix: 24429-newmark-grubb-central-america
-  updated_at: 2017-01-26 00:47:03.979000000 Z
-  position: 8
-  name: Newmark Grubb Central America.
-  description: "<p>????Newmark Grubb Central America is one of the region's leading
-    commercial real estate advisory firms. With more than 14 years of experience,
-    we provide a fully integrated platform of services to prominent multinational
-    corporations and institutional investors, as well as to occupiers, owners and
-    developers of real estate on a local, regional and national level.</p><p><span>They
-    go far beyond being just a real estate brokerage firm. Their experience has taught
-    us to focus not only on the present features of the business, but also on the
-    creation of a long term relationship with our customers.</span></p>"
+  updated_at: 2016-09-17 09:55:59.270000000 Z
+  position: 2
+  name: INGENYA Consultores S.A.
+  description: "<p>Ingenya Consultores S.A. is a Company with 15 years of experience
+    in engineering and architectural design in Costa Rica which has specialized mainly
+    in high tech industrial projects for the industries of microchips, medical products
+    and pharmaceuticals, as well as for the manufacture of food products.  Furthermore,
+    Ingenya has a vast experience in the hotel industry and housing projects. </p>"
   subtitle: 
-- id: '27335'
+- id: '14754'
   item_type: participants
-  slug: callisonrtkl
-  slug_with_prefix: 27335-callisonrtkl
-  updated_at: 2017-01-26 00:40:41.941000000 Z
-  position: 9
-  name: CallisonRTKL
-  description: "<p>Master Plan y Business Plan</p>"
-  subtitle: 
-- id: '14758'
-  item_type: participants
-  slug: nordteco
-  slug_with_prefix: 14758-nordteco
-  updated_at: 2017-01-26 00:37:51.120000000 Z
-  position: 7
-  name: Nordteco
-  description: "<p>En Nordteco es una empresa dedicada a la provisión de bienes y
-    servicios de alta tecnología y valor agregado, sirviendo a la industria de la
-    energía en América Latina. <span>Fundada en 1993, cuenta</span><span> 20 años
-    atendiendo con excelencia las necesidades de empresas eléctricas, promotores y
-    operadores de proyectos y plantas eólicas en toda la región. </span><span>A través
-    de estos años han evolucionado continuamente en experiencia, recurso humano y
-    herramientas tecnológicas;  incrementando a la vez la gama y profundidad de alcance
-    que ofrecemos a través de toda la cadena de valor. </span></p><p><span>Con la
-    energía solar fotovoltaica alcanzando el umbral económico de paridad de red, percibimos
-    un notable incremento en actividades de promoción de proyectos en la región. <br></span></p>"
-  subtitle: 
-- id: '14757'
-  item_type: participants
-  slug: natuwa
-  slug_with_prefix: 14757-natuwa
-  updated_at: 2017-01-04 03:35:11.081000000 Z
-  position: 6
-  name: Natuwa
-  description: "<h3><i><i><i>MACAW SANCTUARY NATUWA</i></i></i><br></h3><p><i><i><i>The
-    Macaw Sanctuary, Natuwa, has the expertise for more than 15 years  in the provision
-    of a place that provides refuge and protection to the <strong>wild animals </strong>that
-    have been victimized by human actions, such as <strong>hunting</strong>, <strong>removal
-    from their environments </strong>and the <strong>desforestation</strong>. </i></i></i><i><i><i>Many
-    of these homeless animals find the attention they need at the Macaw Sanctuary
-    Natuwa to be able to live in captivity with dignity or find the possibility to
-    return to their natural environments. Theretofore Natuwa (aramacao bird sactuary)
-    is working with Punta Perla Pacifico in the development of a conceptual plan of
-    our Theme Park with regards to animal protection, careing, reproduction and exihibition
-    of Costa Rica's native species.  </i></i></i></p>"
-  subtitle: 
-- id: '27337'
-  item_type: participants
-  slug: mon-reve-marketing-costa-rica-s-a
-  slug_with_prefix: 27337-mon-reve-marketing-costa-rica-s-a
-  updated_at: 2017-01-04 03:24:53.412000000 Z
-  position: 11
-  name: 'Mon  Reve Marketing Costa Rica S.A. '
-  description: "<p>Consultoría Zonas Francas</p>"
-  subtitle: 
-- id: '27336'
-  item_type: participants
-  slug: jurong-singapur
-  slug_with_prefix: 27336-jurong-singapur
-  updated_at: 2017-01-04 03:24:03.906000000 Z
-  position: 10
-  name: Jurong Singapur
-  description: "<p>Diseño y Planeación </p>"
-  subtitle: 
-- id: '14756'
-  item_type: participants
-  slug: encyclia-eco-turism
-  slug_with_prefix: 14756-encyclia-eco-turism
-  updated_at: 2016-09-17 09:57:04.260000000 Z
-  position: 5
-  name: Encyclia Eco-turism
-  description: "<p>A tourism consulting firm based in Costa Rica, specialized in projects
-    in the tropical forest where human development interacts with fragile ecosystems.
-    We plan, develop and manage environmentally friendly destinations, meeting international
-    standards of quality for demanding customers; our purpose is to create economically
-    and socially sustainable business for the present and the next generations. We
-    have developed products and destinations for the competitive Costa Rican market,
-    with strong environmental components and high traffic, our professionals are leaders
-    with wide knowledge of the national and regional dynamics of the industry, formed
-    in ecotourism, sustainable development and hotel management. </p>"
+  updated_at: 2016-09-17 09:56:20.640000000 Z
+  position: 3
+  name: GESTARSE S.A.
+  description: "<p><span>Gestarse S.A. is a consulting firm, which provides integrated
+    consulting services to insure the organizations´ competitiveness and sustainability
+    in the mid and long term, starting from a solid base in Social Responsibility,
+    Organizational Development and Project Management. They work together with the
+    organization in order to create the conditions for the management of their process
+    internally, instead of creating co-dependence. </span></p>"
   subtitle: 
 - id: '14755'
   item_type: participants
-  slug: tabash-y-asociados
-  slug_with_prefix: 14755-tabash-y-asociados
   updated_at: 2016-09-17 09:56:43.082000000 Z
   position: 4
   name: TABASH Y ASOCIADOS
@@ -204,30 +72,130 @@
     the third task will be to raise the capital needed to buy the land and carry out
     the required studies for the execution of the project.</p>"
   subtitle: 
-- id: '14754'
+- id: '14756'
   item_type: participants
-  slug: gestarse-s-a
-  slug_with_prefix: 14754-gestarse-s-a
-  updated_at: 2016-09-17 09:56:20.640000000 Z
-  position: 3
-  name: GESTARSE S.A.
-  description: "<p><span>Gestarse S.A. is a consulting firm, which provides integrated
-    consulting services to insure the organizations´ competitiveness and sustainability
-    in the mid and long term, starting from a solid base in Social Responsibility,
-    Organizational Development and Project Management. They work together with the
-    organization in order to create the conditions for the management of their process
-    internally, instead of creating co-dependence. </span></p>"
+  updated_at: 2016-09-17 09:57:04.260000000 Z
+  position: 5
+  name: Encyclia Eco-turism
+  description: "<p>A tourism consulting firm based in Costa Rica, specialized in projects
+    in the tropical forest where human development interacts with fragile ecosystems.
+    We plan, develop and manage environmentally friendly destinations, meeting international
+    standards of quality for demanding customers; our purpose is to create economically
+    and socially sustainable business for the present and the next generations. We
+    have developed products and destinations for the competitive Costa Rican market,
+    with strong environmental components and high traffic, our professionals are leaders
+    with wide knowledge of the national and regional dynamics of the industry, formed
+    in ecotourism, sustainable development and hotel management. </p>"
   subtitle: 
-- id: '14753'
+- id: '14757'
   item_type: participants
-  slug: ingenya-consultores-s-a
-  slug_with_prefix: 14753-ingenya-consultores-s-a
-  updated_at: 2016-09-17 09:55:59.270000000 Z
-  position: 2
-  name: INGENYA Consultores S.A.
-  description: "<p>Ingenya Consultores S.A. is a Company with 15 years of experience
-    in engineering and architectural design in Costa Rica which has specialized mainly
-    in high tech industrial projects for the industries of microchips, medical products
-    and pharmaceuticals, as well as for the manufacture of food products.  Furthermore,
-    Ingenya has a vast experience in the hotel industry and housing projects. </p>"
+  updated_at: 2017-01-04 03:35:11.081000000 Z
+  position: 6
+  name: Natuwa
+  description: "<h3><i><i><i>MACAW SANCTUARY NATUWA</i></i></i><br></h3><p><i><i><i>The
+    Macaw Sanctuary, Natuwa, has the expertise for more than 15 years  in the provision
+    of a place that provides refuge and protection to the <strong>wild animals </strong>that
+    have been victimized by human actions, such as <strong>hunting</strong>, <strong>removal
+    from their environments </strong>and the <strong>desforestation</strong>. </i></i></i><i><i><i>Many
+    of these homeless animals find the attention they need at the Macaw Sanctuary
+    Natuwa to be able to live in captivity with dignity or find the possibility to
+    return to their natural environments. Theretofore Natuwa (aramacao bird sactuary)
+    is working with Punta Perla Pacifico in the development of a conceptual plan of
+    our Theme Park with regards to animal protection, careing, reproduction and exihibition
+    of Costa Rica's native species.  </i></i></i></p>"
+  subtitle: 
+- id: '14758'
+  item_type: participants
+  updated_at: 2017-01-26 00:37:51.120000000 Z
+  position: 7
+  name: Nordteco
+  description: "<p>En Nordteco es una empresa dedicada a la provisión de bienes y
+    servicios de alta tecnología y valor agregado, sirviendo a la industria de la
+    energía en América Latina. <span>Fundada en 1993, cuenta</span><span> 20 años
+    atendiendo con excelencia las necesidades de empresas eléctricas, promotores y
+    operadores de proyectos y plantas eólicas en toda la región. </span><span>A través
+    de estos años han evolucionado continuamente en experiencia, recurso humano y
+    herramientas tecnológicas;  incrementando a la vez la gama y profundidad de alcance
+    que ofrecemos a través de toda la cadena de valor. </span></p><p><span>Con la
+    energía solar fotovoltaica alcanzando el umbral económico de paridad de red, percibimos
+    un notable incremento en actividades de promoción de proyectos en la región. <br></span></p>"
+  subtitle: 
+- id: '24429'
+  item_type: participants
+  updated_at: 2017-01-26 00:47:03.979000000 Z
+  position: 8
+  name: Newmark Grubb Central America.
+  description: "<p>????Newmark Grubb Central America is one of the region's leading
+    commercial real estate advisory firms. With more than 14 years of experience,
+    we provide a fully integrated platform of services to prominent multinational
+    corporations and institutional investors, as well as to occupiers, owners and
+    developers of real estate on a local, regional and national level.</p><p><span>They
+    go far beyond being just a real estate brokerage firm. Their experience has taught
+    us to focus not only on the present features of the business, but also on the
+    creation of a long term relationship with our customers.</span></p>"
+  subtitle: 
+- id: '27335'
+  item_type: participants
+  updated_at: 2017-01-26 00:40:41.941000000 Z
+  position: 9
+  name: CallisonRTKL
+  description: "<p>Master Plan y Business Plan</p>"
+  subtitle: 
+- id: '27336'
+  item_type: participants
+  updated_at: 2017-01-04 03:24:03.906000000 Z
+  position: 10
+  name: Jurong Singapur
+  description: "<p>Diseño y Planeación </p>"
+  subtitle: 
+- id: '27337'
+  item_type: participants
+  updated_at: 2017-01-04 03:24:53.412000000 Z
+  position: 11
+  name: 'Mon  Reve Marketing Costa Rica S.A. '
+  description: "<p>Consultoría Zonas Francas</p>"
+  subtitle: 
+- id: '27338'
+  item_type: participants
+  updated_at: 2017-01-27 21:05:34.148000000 Z
+  position: 12
+  name: 'Banco Improsa  '
+  description: |-
+    <p>Trust accounts.</p><p>Improsa Bank began operations in 1986 as Financiera Improsa. Nine years later, the financial institution becomes Banco Improsa and in 2000 Grupo Financiero Improsa, S.A. It consolidates its ten subsidiaries through which it provides financial services in Costa Rica and throughout Central America. Its services include banking, leasing, stock exchange services, trust accounts, insurance marketing, investment fund management and investment banking, among others.</p><p><br></p>
+    <p><br></p>
+  subtitle: 
+- id: '27339'
+  item_type: participants
+  updated_at: 2017-01-27 21:12:03.128000000 Z
+  position: 13
+  name: 'Programa MAPA '
+  description: "<p> Este programa se basa enel diseño y planeamiento con la asesoría
+    de  Bolsa Nacional de Valores deCosta Rica de un mercado alternativo de acciones,
+    que ayudara y dará confianza a los inversionistas de los alcances de PPP en su
+    private placement plan, sin perjuicio de poder convertirse en una compañía publica
+    en el futuro.<span> </span></p>"
+  subtitle: 
+- id: '27340'
+  item_type: participants
+  updated_at: 2017-01-27 21:14:20.729000000 Z
+  position: 14
+  name: Camapymes
+  description: "<p>Parque Pymes y encadenamientos,que actuarían como enlazadoras y
+    suplidoras con sus productos y servicios a las grandes firmas que se ubicarían
+    dentro de la IPZ.</p>"
+  subtitle: 
+- id: '27341'
+  item_type: participants
+  updated_at: 2017-01-27 21:16:06.346000000 Z
+  position: 15
+  name: 'Zurcher,  Odio y Raven '
+  description: "<p>Legal council.</p>"
+  subtitle: 
+- id: '30901'
+  item_type: participants
+  updated_at: 2017-01-27 21:31:35.437000000 Z
+  position: 16
+  name: Michael Graves Architecture & Design
+  description: "<p>Michael Graves Architecture & Design focuses on how people live,
+    \ work and play to create enduring, deeply human design solutions.</p>"
   subtitle: 

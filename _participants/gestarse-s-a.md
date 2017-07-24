@@ -6,6 +6,6 @@ description: "<p><span>Gestarse S.A. is a consulting firm, which provides integr
   Development and Project Management. They work together with the organization in
   order to create the conditions for the management of their process internally, instead
   of creating co-dependence. </span></p>"
-order: 14
+order: 2
 ---
 

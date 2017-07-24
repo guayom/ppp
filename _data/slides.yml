@@ -1,154 +1,154 @@
 - id: '23769'
   item_type: slides
-  slug: the-new-port-terminal-of-the-pacific-chomes-puntare
-  slug_with_prefix: 23769-the-new-port-terminal-of-the-pacific-chomes-puntare
   updated_at: 2017-03-02 01:57:36.165000000 Z
   title: The new port terminal of the Pacific. Chomes Puntarenas
   image:
     format: jpg
     size: 943894
-    url: https://dato-images.imgix.net/288/1480973520-ElPalmar-Conjuntoplanorev62015-sinperimetro.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1480973520-ElPalmar-Conjuntoplanorev62015-sinperimetro.jpg
     width: 1417
     height: 831
+    alt: 
+    title: 
   decription: ''
   ocultar_texto: false
 - id: '39531'
   item_type: slides
-  slug: main-cores
-  slug_with_prefix: 39531-main-cores
   updated_at: 2017-03-02 01:32:31.093000000 Z
   title: Main Cores
   image:
     format: jpg
     size: 5141545
-    url: https://dato-images.imgix.net/288/1488418299-conjunto-total-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1488418299-conjunto-total-jpg
     width: 3988
     height: 2599
+    alt: 
+    title: 
   decription: 
   ocultar_texto: false
 - id: '39529'
   item_type: slides
-  slug: city-overview
-  slug_with_prefix: 39529-city-overview
   updated_at: 2017-03-02 01:08:27.579000000 Z
   title: City Overview
   image:
     format: jpg
     size: 1528980
-    url: https://dato-images.imgix.net/288/1488416866-zona-estadio-v10-hr-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1488416866-zona-estadio-v10-hr-jpg
     width: 2168
     height: 1028
+    alt: 
+    title: 
   decription: 
   ocultar_texto: false
 - id: '39528'
   item_type: slides
-  slug: internal-transportation-layout
-  slug_with_prefix: 39528-internal-transportation-layout
   updated_at: 2017-03-02 01:03:47.009000000 Z
   title: Internal Transportation layout
   image:
     format: jpg
     size: 1639653
-    url: https://dato-images.imgix.net/288/1488416538-zona-estadio-planta-hr-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1488416538-zona-estadio-planta-hr-jpg
     width: 2168
     height: 1028
+    alt: 
+    title: 
   decription: 
   ocultar_texto: false
 - id: '32264'
   item_type: slides
-  slug: geographical-zone-overview
-  slug_with_prefix: 32264-geographical-zone-overview
   updated_at: 2017-02-03 21:16:44.958000000 Z
   title: 'Geographical zone overview '
   image:
     format: jpg
     size: 136245
-    url: https://dato-images.imgix.net/288/1486156587-geographical-zone-overview-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1486156587-geographical-zone-overview-jpg
     width: 763
     height: 586
+    alt: 
+    title: 
   decription: 
   ocultar_texto: false
 - id: '32258'
   item_type: slides
-  slug: general-context
-  slug_with_prefix: 32258-general-context
   updated_at: 2017-02-03 20:59:29.357000000 Z
   title: General Context
   image:
     format: jpg
     size: 20738
-    url: https://dato-images.imgix.net/288/1486155564-general-context-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1486155564-general-context-jpg
     width: 372
     height: 336
+    alt: 
+    title: 
   decription: 
   ocultar_texto: false
 - id: '32257'
   item_type: slides
-  slug: costa-rica-relevant-infraestructure
-  slug_with_prefix: 32257-costa-rica-relevant-infraestructure
   updated_at: 2017-02-03 20:58:56.124000000 Z
   title: Costa Rica - Relevant Infraestructure
   image:
     format: jpg
     size: 25247
-    url: https://dato-images.imgix.net/288/1486155522-relevant-infraestructure-jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1486155522-relevant-infraestructure-jpg
     width: 369
     height: 382
+    alt: 
+    title: 
   decription: 
   ocultar_texto: false
 - id: '23202'
   item_type: slides
-  slug: primer-slide
-  slug_with_prefix: 23202-primer-slide
   updated_at: 2016-12-23 22:37:23.014000000 Z
   title: Primer slide
   image:
     format: jpg
     size: 139509
-    url: https://dato-images.imgix.net/288/1480477715-Punta-Perla-Pacifico-ffff.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1480477715-Punta-Perla-Pacifico-ffff.jpg
     width: 2999
     height: 2324
+    alt: 
+    title: 
   decription: 
   ocultar_texto: true
 - id: '14761'
   item_type: slides
-  slug: industrial-zone-park
-  slug_with_prefix: 14761-industrial-zone-park
   updated_at: 2016-12-23 22:37:23.004000000 Z
   title: Industrial Zone - Park
   image:
     format: jpg
     size: 4918132
-    url: https://dato-images.imgix.net/288/1474108102-industrial-b.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1474108102-industrial-b.jpg
     width: 3740
     height: 2048
+    alt: 
+    title: 
   decription: ''
   ocultar_texto: false
 - id: '14760'
   item_type: slides
-  slug: stadium-and-sport-center
-  slug_with_prefix: 14760-stadium-and-sport-center
   updated_at: 2016-12-23 22:37:22.995000000 Z
   title: Stadium and sport center.
   image:
     format: jpg
     size: 4920650
-    url: https://dato-images.imgix.net/288/1474107739-estadio.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1474107739-estadio.jpg
     width: 3740
     height: 2048
+    alt: 
+    title: 
   decription: ''
   ocultar_texto: false
 - id: '24427'
   item_type: slides
-  slug: master-plan
-  slug_with_prefix: 24427-master-plan
   updated_at: 2016-12-23 22:37:22.974000000 Z
   title: Master Plan
   image:
     format: jpg
     size: 116630
-    url: https://dato-images.imgix.net/288/1481320900-PPP-Imagen3.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+    url: https://www.datocms-assets.com/288/1481320900-PPP-Imagen3.jpg
     width: 1058
     height: 793
+    alt: 
+    title: 
   decription: 
   ocultar_texto: false

@@ -10,6 +10,6 @@ description: "<p>En Nordteco es una empresa dedicada a la provisión de bienes y
   de valor. </span></p><p><span>Con la energía solar fotovoltaica alcanzando el umbral
   económico de paridad de red, percibimos un notable incremento en actividades de
   promoción de proyectos en la región. <br></span></p>"
-order: 8
+order: 6
 ---
 
