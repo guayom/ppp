@@ -2,7 +2,7 @@
   <div class="banner" data-fullscreen="on" data-auto="true" data-hidetimerbar="off" data-fullscreenoffsetcontainer=".header">
     <ul>
       {% for slide in site.data.slides %}
-      <li data-transition="fade" data-slotamount="7" data-saveperformance="on" class="background overlay overlay-light{% if slide.ocultar_texto == true %} no-overlay{% endif %}" style="background-image: url({{slide.image.url}}&w=2000&h=1333&fit=crop);">
+      <li data-transition="fade" data-slotamount="7" data-saveperformance="on" class="background overlay overlay-light{% if slide.ocultar_texto == true %} no-overlay{% endif %}" style="background-image: url({{slide.image.url}}?width=2000&height=1333&fit=crop);">
         {% unless slide.ocultar_texto == true %}
           <div class="tp-caption sft large_bold_white"  data-x="center" data-y="center" data-voffset="-85" data-speed="700" data-start="700" data-easing="easeOutBack">
             <object type="image/svg+xml" data="/images/logo-full.svg">
@@ -11,7 +11,6 @@
             <div class="tp-text">
               {{slide.title}}
               <p class="tp-caption fade text-center" data-x="center" data-y="center" data-speed="500" data-start="900" data-easing="easeOutBack">
-                {{slide.decription}}
               </p>
             </div>
           </div>
