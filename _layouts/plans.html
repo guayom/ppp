@@ -7,7 +7,7 @@ layout: project
 			<div class="col-xs-12 mix office">
 				<h3>{{ plan.title }}</h3>
 				<figure class="figure">
-					<img src="{{ plan.image.url | append: '&w=900' }}" alt="{{ plan.title }}">
+					<img src="{{ plan.image.url(w: 900) }}" alt="{{ plan.title }}">
 					<div class="mask mask-dark">
 						<nav>
 							<a image="icon icon-inverse icon-size-3 icon-theme icon-rounded magnific" href="{{ plan.image.url }}" title="{{ plan.title }}">
