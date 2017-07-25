@@ -70,9 +70,9 @@ images:
                 last_data_change_at: '2017-03-02T01:57:36.171Z'
                 production_last_deploy_at: '2017-03-02T01:57:40.803Z'
                 staging_last_deploy_at: 
-                last_dump_at: '2017-07-24T03:25:35.442Z'
+                last_dump_at: '2017-07-25T05:16:33.173Z'
                 deployable: true
-                production_deploy_status: success
+                production_deploy_status: fail
                 staging_deploy_status: unstarted
                 production_scrape_status: unstarted
                 staging_scrape_status: unstarted
