@@ -1,6 +1,22 @@
+- id: '83322'
+  item_type: slide
+  updated_at: 2017-07-27 03:55:23.521000000 Z
+  position: 1
+  title: Punta Perla Pacífico Smart City Puntarenas, Costa Rica
+  image:
+    format: png
+    size: 303134
+    url: https://www.datocms-assets.com/288/1501125799-ciudades-innovadoras-apais-sin-fondo.png
+    width: 600
+    height: 300
+    alt: 
+    title: 
+  decription: 
+  ocultar_texto: false
 - id: '23769'
-  item_type: slides
-  updated_at: 2017-03-02 01:57:36.165000000 Z
+  item_type: slide
+  updated_at: 2017-07-27 02:14:10.505000000 Z
+  position: 2
   title: The new port terminal of the Pacific. Chomes Puntarenas
   image:
     format: jpg
@@ -10,11 +26,12 @@
     height: 831
     alt: 
     title: 
-  decription: ''
+  decription: "<p>xxxxx</p>"
   ocultar_texto: false
 - id: '39531'
-  item_type: slides
+  item_type: slide
   updated_at: 2017-03-02 01:32:31.093000000 Z
+  position: 3
   title: Main Cores
   image:
     format: jpg
@@ -27,8 +44,9 @@
   decription: 
   ocultar_texto: false
 - id: '39529'
-  item_type: slides
+  item_type: slide
   updated_at: 2017-03-02 01:08:27.579000000 Z
+  position: 4
   title: City Overview
   image:
     format: jpg
@@ -41,8 +59,9 @@
   decription: 
   ocultar_texto: false
 - id: '39528'
-  item_type: slides
+  item_type: slide
   updated_at: 2017-03-02 01:03:47.009000000 Z
+  position: 5
   title: Internal Transportation layout
   image:
     format: jpg
@@ -55,8 +74,9 @@
   decription: 
   ocultar_texto: false
 - id: '32264'
-  item_type: slides
+  item_type: slide
   updated_at: 2017-02-03 21:16:44.958000000 Z
+  position: 6
   title: 'Geographical zone overview '
   image:
     format: jpg
@@ -69,8 +89,9 @@
   decription: 
   ocultar_texto: false
 - id: '32258'
-  item_type: slides
+  item_type: slide
   updated_at: 2017-02-03 20:59:29.357000000 Z
+  position: 7
   title: General Context
   image:
     format: jpg
@@ -83,8 +104,9 @@
   decription: 
   ocultar_texto: false
 - id: '32257'
-  item_type: slides
+  item_type: slide
   updated_at: 2017-02-03 20:58:56.124000000 Z
+  position: 8
   title: Costa Rica - Relevant Infraestructure
   image:
     format: jpg
@@ -96,23 +118,10 @@
     title: 
   decription: 
   ocultar_texto: false
-- id: '23202'
-  item_type: slides
-  updated_at: 2016-12-23 22:37:23.014000000 Z
-  title: Primer slide
-  image:
-    format: jpg
-    size: 139509
-    url: https://www.datocms-assets.com/288/1480477715-Punta-Perla-Pacifico-ffff.jpg
-    width: 2999
-    height: 2324
-    alt: 
-    title: 
-  decription: 
-  ocultar_texto: true
 - id: '14761'
-  item_type: slides
+  item_type: slide
   updated_at: 2016-12-23 22:37:23.004000000 Z
+  position: 9
   title: Industrial Zone - Park
   image:
     format: jpg
@@ -125,8 +134,9 @@
   decription: ''
   ocultar_texto: false
 - id: '14760'
-  item_type: slides
+  item_type: slide
   updated_at: 2016-12-23 22:37:22.995000000 Z
+  position: 10
   title: Stadium and sport center.
   image:
     format: jpg
@@ -139,8 +149,9 @@
   decription: ''
   ocultar_texto: false
 - id: '24427'
-  item_type: slides
+  item_type: slide
   updated_at: 2016-12-23 22:37:22.974000000 Z
+  position: 11
   title: Master Plan
   image:
     format: jpg
@@ -152,3 +163,18 @@
     title: 
   decription: 
   ocultar_texto: false
+- id: '23202'
+  item_type: slide
+  updated_at: 2017-07-28 02:46:15.700000000 Z
+  position: 12
+  title: Primer slide
+  image:
+    format: jpg
+    size: 139509
+    url: https://www.datocms-assets.com/288/1480477715-Punta-Perla-Pacifico-ffff.jpg
+    width: 2999
+    height: 2324
+    alt: 
+    title: 
+  decription: 
+  ocultar_texto: true

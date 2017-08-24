@@ -27,6 +27,17 @@ directory "_data/" do
     phone: dato.contacto.phone,
     address: dato.contacto.address
   }
+
+  create_data_file "construction.yml", :yaml, {
+    total_population: dato.construction.total_population,
+    automoviles: dato.construction.automoviles,
+    total_lot_areas: dato.construction.total_lot_areas,
+    total_building_area: dato.construction.total_building_area,
+    airport_building_area: dato.construction.airport_building_area,
+    airport_lot_area: dato.construction.airport_lot_area,
+    future_development_area: dato.construction.future_development_area,
+    imagen: dato.construction.imagen.url
+  }
 end
 
 directory "_about/" do

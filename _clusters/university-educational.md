@@ -4,7 +4,7 @@ description: |-
   <p>
   For  the Industrial Park Zone or IPZ  development, it is crucial to prepare and train qualified personnel who can work in the area.  For this, we wish to create a University Campus with national and international universities who will share resources and facilities between them. Furthermore, the offer of engineering and scientific careers, so these professionals and technicians can contribute to the management of knowledge, innovation and technological transfer required by the IPZ center with adequate facilities to carry out research and development in relevant thematic, through a program that promotes entrepreneurship and dual education in areas such as aerospace, atmospheric and climate research, photonics, robotics, biology, pharmaceutics, medicine, environment and energy, among others.  This way, students of this University-Educational Cluster, can develop their projects and final papers with companies housed in the <em>IPZ, along with a Dual educational program.</em></p>
 images:
-- &10 !ruby/object:Dato::Local::Item
+- &43 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       id: '39533'
@@ -67,16 +67,16 @@ images:
                 staging_frontend_url: 
                 ssg: jekyll
                 imgix_host: www.datocms-assets.com
-                last_data_change_at: '2017-03-02T01:57:36.171Z'
-                production_last_deploy_at: '2017-03-02T01:57:40.803Z'
+                last_data_change_at: '2017-08-24T23:19:17.884Z'
+                production_last_deploy_at: '2017-07-28T04:20:10.101Z'
                 staging_last_deploy_at: 
-                last_dump_at: '2017-07-25T05:20:19.638Z'
+                last_dump_at: '2017-08-24T23:11:44.051Z'
                 deployable: true
                 production_deploy_status: success
                 staging_deploy_status: unstarted
                 production_scrape_status: unstarted
                 staging_scrape_status: unstarted
-                items_count: 58
+                items_count: 61
                 production_deploy_adapter: netlify
                 staging_deploy_adapter: 
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -87,16 +87,22 @@ images:
                 users: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data:
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '730'
+                    id: '735'
                     type: user
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '421'
+                    id: '734'
                     type: user
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '420'
                     type: user
                 menu_items: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data:
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '14241'
+                    type: menu_item
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '2054'
+                    type: menu_item
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '4281'
                     type: menu_item
@@ -114,9 +120,6 @@ images:
                     type: menu_item
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '2056'
-                    type: menu_item
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '2054'
                     type: menu_item
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '2038'
@@ -139,6 +142,15 @@ images:
                 item_types: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data:
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1824'
+                    type: item_type
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1808'
+                    type: item_type
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '3840'
                     type: item_type
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -157,13 +169,7 @@ images:
                     id: '1825'
                     type: item_type
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1824'
-                    type: item_type
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1810'
-                    type: item_type
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1808'
                     type: item_type
                   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1807'
@@ -185,7 +191,113 @@ images:
                     type: plan
             data_source: *1
         item_type:
-          '3840': &5 !ruby/object:Dato::Local::JsonApiEntity
+          '13684': &5 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '13684'
+              type: item_type
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                name: Construction
+                singleton: true
+                sortable: false
+                api_key: construction
+                ordering_direction: 
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                fields: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data:
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '52628'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '52629'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '52630'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '52631'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '52633'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '52634'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '52635'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '52636'
+                    type: field
+                singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '90735'
+                    type: item
+                ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: 
+            data_source: *1
+          '1824': &15 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '1824'
+              type: item_type
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                name: Contact
+                singleton: true
+                sortable: false
+                api_key: contacto
+                ordering_direction: 
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                fields: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data:
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '7266'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '7267'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '7268'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '14539'
+                    type: field
+                singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '14778'
+                    type: item
+                ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: 
+            data_source: *1
+          '1808': &21 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '1808'
+              type: item_type
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                name: Slides
+                singleton: false
+                sortable: true
+                api_key: slide
+                ordering_direction: 
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                fields: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data:
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '7212'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '7213'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '7214'
+                    type: field
+                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '14538'
+                    type: field
+                singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: 
+                ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: 
+            data_source: *1
+          '3840': &38 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '3840'
               type: item_type
@@ -206,7 +318,7 @@ images:
                 ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '2840': &13 !ruby/object:Dato::Local::JsonApiEntity
+          '2840': &46 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '2840'
               type: item_type
@@ -232,7 +344,7 @@ images:
                 ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '2008': &159 !ruby/object:Dato::Local::JsonApiEntity
+          '2008': &174 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '2008'
               type: item_type
@@ -256,7 +368,7 @@ images:
                 ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '2007': &17 !ruby/object:Dato::Local::JsonApiEntity
+          '2007': &50 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '2007'
               type: item_type
@@ -279,7 +391,7 @@ images:
                 ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '1826': &20 !ruby/object:Dato::Local::JsonApiEntity
+          '1826': &53 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '1826'
               type: item_type
@@ -303,7 +415,7 @@ images:
                 ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '1825': &34 !ruby/object:Dato::Local::JsonApiEntity
+          '1825': &67 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '1825'
               type: item_type
@@ -342,39 +454,7 @@ images:
                 ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '1824': &46 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '1824'
-              type: item_type
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                name: Contacto
-                singleton: true
-                sortable: false
-                api_key: contacto
-                ordering_direction: 
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                fields: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data:
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '7266'
-                    type: field
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '7267'
-                    type: field
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '7268'
-                    type: field
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '14539'
-                    type: field
-                singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '14778'
-                    type: item
-                ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '1810': &52 !ruby/object:Dato::Local::JsonApiEntity
+          '1810': &79 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '1810'
               type: item_type
@@ -404,37 +484,7 @@ images:
                 ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '1808': &63 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '1808'
-              type: item_type
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                name: Slides
-                singleton: false
-                sortable: false
-                api_key: slides
-                ordering_direction: 
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                fields: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data:
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '7212'
-                    type: field
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '7213'
-                    type: field
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '7214'
-                    type: field
-                  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '14538'
-                    type: field
-                singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-                ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '1807': &79 !ruby/object:Dato::Local::JsonApiEntity
+          '1807': &90 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '1807'
               type: item_type
@@ -460,7 +510,7 @@ images:
                 ordering_field: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '1806': &83 !ruby/object:Dato::Local::JsonApiEntity
+          '1806': &94 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '1806'
               type: item_type
@@ -488,7 +538,332 @@ images:
                   data: 
             data_source: *1
         field:
-          '15338': &6 !ruby/object:Dato::Local::JsonApiEntity
+          '52628': &6 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '52628'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Total Population
+                field_type: string
+                api_key: total_population
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 1
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: title
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+            data_source: *1
+          '52629': &7 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '52629'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Automoviles
+                field_type: string
+                api_key: automoviles
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 2
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: plain
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+            data_source: *1
+          '52630': &8 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '52630'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Total lot areas
+                field_type: string
+                api_key: total_lot_areas
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 3
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: plain
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+            data_source: *1
+          '52631': &9 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '52631'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Total building area
+                field_type: string
+                api_key: total_building_area
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 4
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: plain
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+            data_source: *1
+          '52633': &10 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '52633'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Airport building area
+                field_type: string
+                api_key: airport_building_area
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 6
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: plain
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+            data_source: *1
+          '52634': &11 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '52634'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Airport lot area
+                field_type: string
+                api_key: airport_lot_area
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 7
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: plain
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+            data_source: *1
+          '52635': &12 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '52635'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Future development area
+                field_type: string
+                api_key: future_development_area
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 8
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: plain
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+            data_source: *1
+          '52636': &13 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '52636'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Imagen
+                field_type: image
+                api_key: imagen
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 9
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+            data_source: *1
+          '7266': &16 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '7266'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: email
+                field_type: string
+                api_key: email
+                hint: Email al que quieren recibir preguntas y comentarios
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  required: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                  format: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    predefined_pattern: email
+                position: 1
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: plain
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1824'
+                    type: item_type
+            data_source: *1
+          '7267': &17 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '7267'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Phone
+                field_type: string
+                api_key: phone
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 2
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: plain
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1824'
+                    type: item_type
+            data_source: *1
+          '7268': &18 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '7268'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Address
+                field_type: text
+                api_key: address
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 3
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: wysiwyg
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1824'
+                    type: item_type
+            data_source: *1
+          '14539': &19 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '14539'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Formulario de contacto
+                field_type: string
+                api_key: formulario_de_contacto
+                hint: Colocar el email al cual desean recibir los formularios de contacto.
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  required: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                  format: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    predefined_pattern: email
+                position: 4
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: plain
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1824'
+                    type: item_type
+            data_source: *1
+          '7212': &22 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '7212'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Title
+                field_type: string
+                api_key: title
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  required: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 1
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: title
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1808'
+                    type: item_type
+            data_source: *1
+          '7213': &23 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '7213'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Image
+                field_type: image
+                api_key: image
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  required: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 2
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1808'
+                    type: item_type
+            data_source: *1
+          '7214': &24 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '7214'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Decription
+                field_type: text
+                api_key: decription
+                hint: 
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 3
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  type: wysiwyg
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1808'
+                    type: item_type
+            data_source: *1
+          '14538': &25 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '14538'
+              type: field
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                label: Ocultar texto
+                field_type: boolean
+                api_key: ocultar_texto
+                hint: Marque esta casilla si desea ocultar el texto de este slide
+                localized: false
+                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+                position: 4
+                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1808'
+                    type: item_type
+            data_source: *1
+          '15338': &39 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '15338'
               type: field
@@ -508,7 +883,7 @@ images:
                     id: '3840'
                     type: item_type
             data_source: *1
-          '11313': &14 !ruby/object:Dato::Local::JsonApiEntity
+          '11313': &47 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11313'
               type: field
@@ -528,7 +903,7 @@ images:
                     id: '2840'
                     type: item_type
             data_source: *1
-          '11312': &15 !ruby/object:Dato::Local::JsonApiEntity
+          '11312': &48 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11312'
               type: field
@@ -589,7 +964,7 @@ images:
                     id: '2008'
                     type: item_type
             data_source: *1
-          '8039': &18 !ruby/object:Dato::Local::JsonApiEntity
+          '8039': &51 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '8039'
               type: field
@@ -611,7 +986,7 @@ images:
                     id: '2007'
                     type: item_type
             data_source: *1
-          '7276': &21 !ruby/object:Dato::Local::JsonApiEntity
+          '7276': &54 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7276'
               type: field
@@ -631,7 +1006,7 @@ images:
                     id: '1826'
                     type: item_type
             data_source: *1
-          '7277': &22 !ruby/object:Dato::Local::JsonApiEntity
+          '7277': &55 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7277'
               type: field
@@ -650,7 +1025,7 @@ images:
                     id: '1826'
                     type: item_type
             data_source: *1
-          '7269': &35 !ruby/object:Dato::Local::JsonApiEntity
+          '7269': &68 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7269'
               type: field
@@ -671,7 +1046,7 @@ images:
                     id: '1825'
                     type: item_type
             data_source: *1
-          '7270': &36 !ruby/object:Dato::Local::JsonApiEntity
+          '7270': &69 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7270'
               type: field
@@ -691,7 +1066,7 @@ images:
                     id: '1825'
                     type: item_type
             data_source: *1
-          '7271': &37 !ruby/object:Dato::Local::JsonApiEntity
+          '7271': &70 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7271'
               type: field
@@ -710,7 +1085,7 @@ images:
                     id: '1825'
                     type: item_type
             data_source: *1
-          '7272': &38 !ruby/object:Dato::Local::JsonApiEntity
+          '7272': &71 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7272'
               type: field
@@ -729,7 +1104,7 @@ images:
                     id: '1825'
                     type: item_type
             data_source: *1
-          '7273': &39 !ruby/object:Dato::Local::JsonApiEntity
+          '7273': &72 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7273'
               type: field
@@ -748,7 +1123,7 @@ images:
                     id: '1825'
                     type: item_type
             data_source: *1
-          '7274': &40 !ruby/object:Dato::Local::JsonApiEntity
+          '7274': &73 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7274'
               type: field
@@ -767,7 +1142,7 @@ images:
                     id: '1825'
                     type: item_type
             data_source: *1
-          '7275': &41 !ruby/object:Dato::Local::JsonApiEntity
+          '7275': &74 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7275'
               type: field
@@ -786,93 +1161,7 @@ images:
                     id: '1825'
                     type: item_type
             data_source: *1
-          '7266': &47 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '7266'
-              type: field
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                label: email
-                field_type: string
-                api_key: email
-                hint: Email al que quieren recibir preguntas y comentarios
-                localized: false
-                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  required: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-                  format: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    predefined_pattern: email
-                position: 1
-                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  type: plain
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1824'
-                    type: item_type
-            data_source: *1
-          '7267': &48 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '7267'
-              type: field
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                label: Phone
-                field_type: string
-                api_key: phone
-                hint: 
-                localized: false
-                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-                position: 2
-                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  type: plain
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1824'
-                    type: item_type
-            data_source: *1
-          '7268': &49 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '7268'
-              type: field
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                label: Address
-                field_type: text
-                api_key: address
-                hint: 
-                localized: false
-                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-                position: 3
-                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  type: wysiwyg
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1824'
-                    type: item_type
-            data_source: *1
-          '14539': &50 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '14539'
-              type: field
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                label: Formulario de contacto
-                field_type: string
-                api_key: formulario_de_contacto
-                hint: Colocar el email al cual desean recibir los formularios de contacto.
-                localized: false
-                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  required: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-                  format: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    predefined_pattern: email
-                position: 4
-                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  type: plain
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1824'
-                    type: item_type
-            data_source: *1
-          '7226': &53 !ruby/object:Dato::Local::JsonApiEntity
+          '7226': &80 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7226'
               type: field
@@ -893,7 +1182,7 @@ images:
                     id: '1810'
                     type: item_type
             data_source: *1
-          '7217': &54 !ruby/object:Dato::Local::JsonApiEntity
+          '7217': &81 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7217'
               type: field
@@ -914,7 +1203,7 @@ images:
                     id: '1810'
                     type: item_type
             data_source: *1
-          '11314': &55 !ruby/object:Dato::Local::JsonApiEntity
+          '11314': &82 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11314'
               type: field
@@ -934,7 +1223,7 @@ images:
                     id: '1810'
                     type: item_type
             data_source: *1
-          '15342': &56 !ruby/object:Dato::Local::JsonApiEntity
+          '15342': &83 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '15342'
               type: field
@@ -957,87 +1246,7 @@ images:
                     id: '1810'
                     type: item_type
             data_source: *1
-          '7212': &64 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '7212'
-              type: field
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                label: Title
-                field_type: string
-                api_key: title
-                hint: 
-                localized: false
-                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  required: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-                position: 1
-                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  type: title
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1808'
-                    type: item_type
-            data_source: *1
-          '7213': &65 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '7213'
-              type: field
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                label: Image
-                field_type: image
-                api_key: image
-                hint: 
-                localized: false
-                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  required: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-                position: 2
-                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1808'
-                    type: item_type
-            data_source: *1
-          '7214': &66 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '7214'
-              type: field
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                label: Decription
-                field_type: text
-                api_key: decription
-                hint: 
-                localized: false
-                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-                position: 3
-                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  type: wysiwyg
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1808'
-                    type: item_type
-            data_source: *1
-          '14538': &67 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '14538'
-              type: field
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                label: Ocultar texto
-                field_type: boolean
-                api_key: ocultar_texto
-                hint: Marque esta casilla si desea ocultar el texto de este slide
-                localized: false
-                validators: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-                position: 4
-                appeareance: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1808'
-                    type: item_type
-            data_source: *1
-          '7278': &80 !ruby/object:Dato::Local::JsonApiEntity
+          '7278': &91 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7278'
               type: field
@@ -1057,7 +1266,7 @@ images:
                     id: '1807'
                     type: item_type
             data_source: *1
-          '7211': &81 !ruby/object:Dato::Local::JsonApiEntity
+          '7211': &92 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7211'
               type: field
@@ -1078,7 +1287,7 @@ images:
                     id: '1807'
                     type: item_type
             data_source: *1
-          '7208': &84 !ruby/object:Dato::Local::JsonApiEntity
+          '7208': &95 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7208'
               type: field
@@ -1099,7 +1308,7 @@ images:
                     id: '1806'
                     type: item_type
             data_source: *1
-          '7209': &85 !ruby/object:Dato::Local::JsonApiEntity
+          '7209': &96 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '7209'
               type: field
@@ -1120,7 +1329,7 @@ images:
                     id: '1806'
                     type: item_type
             data_source: *1
-          '11311': &86 !ruby/object:Dato::Local::JsonApiEntity
+          '11311': &97 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11311'
               type: field
@@ -1142,15 +1351,420 @@ images:
                     type: item_type
             data_source: *1
         item:
-          '23769': &62 !ruby/object:Dato::Local::JsonApiEntity
+          '90735': &3 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '90735'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-08-24T23:19:17.870Z'
+                is_valid: true
+                imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  alt: 
+                  path: "/288/1503616748-grafico-data.png"
+                  size: 6017
+                  title: 
+                  width: 250
+                  format: png
+                  height: 250
+                airport_lot_area: 936 Ha
+                airport_building_area: 365,914m<sup>2</sup>
+                total_building_area: 5,693,637m<sup>2</sup>
+                total_lot_areas: 1,774 Ha
+                future_development_area: 1,156 Ha
+                automoviles: '65217'
+                total_population: '154377'
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '13684'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '21'
+                    type: account
+            data_source: *1
+          '23202': &36 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '23202'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-28T02:46:15.700Z'
+                is_valid: true
+                ocultar_texto: true
+                decription: 
+                image: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  alt: 
+                  path: "/288/1480477715-Punta-Perla-Pacifico-ffff.jpg"
+                  size: 139509
+                  title: 
+                  width: 2999
+                  format: jpg
+                  height: 2324
+                title: Primer slide
+                position: 12
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1808'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '735'
+                    type: user
+            data_source: *1
+          '83321': &103 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '83321'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T04:28:12.800Z'
+                is_valid: true
+                subtitle: 
+                description: |-
+                  <p>Es una empresa promotora, y desarrolladora &nbsp;de exportaci&oacute;n de servicios de salud enfocados en la atenci&oacute;n y tratamiento integral del usuario del servicio, al contar con personal altamente calificado y especializado permite que la atenci&oacute;n brindada sea personalizada, efectiva y segura.&nbsp; Adem&aacute;s de brindarles a los profesionales y estudiantes afines, tanto nacionales como extranjeros realizar pasant&iacute;as e investigaciones en pro de incrementar el conocimiento y la experiencia laboral.</p>
+                  <p>&nbsp;</p>
+                  <p>Dentro de sus objetivos se encuentra el desarrollo de un centro hospitalario dentro de PPP en alianza con centros m&eacute;dicos similares de Barcelona, Espa&ntilde;a con tecnolog&iacute;a de punta en &aacute;reas de la medicina interna, cirug&iacute;a, y tratamientos que van desde las m&aacute;s generales a las m&aacute;s especializadas, explotando al m&aacute;ximo el recurso humano, profesional y natural que tiene Costa Rica y se complemente con la recuperaci&oacute;n, bienestar, relajamiento y experiencia altamente satisfactoria del paciente y sus acompa&ntilde;antes.</p>
+                name: Medical and Wellness Tourism CR
+                position: 7
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '27340': &111 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '27340'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T04:23:53.726Z'
+                is_valid: true
+                subtitle: 
+                description: "<p>Parque Pymes y encadenamientos,que actuarían como
+                  enlazadoras y suplidoras con sus productos y servicios a las grandes
+                  firmas que se ubicarían dentro de la IPZ.</p>"
+                name: 'Canapymes / Fundación Costa Rica Emprende '
+                position: 15
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '83322': &20 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '83322'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T03:55:23.521Z'
+                is_valid: true
+                ocultar_texto: false
+                decription: 
+                image: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  alt: 
+                  path: "/288/1501125799-ciudades-innovadoras-apais-sin-fondo.png"
+                  size: 303134
+                  title: 
+                  width: 600
+                  format: png
+                  height: 300
+                title: Punta Perla Pacífico Smart City Puntarenas, Costa Rica
+                position: 1
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1808'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '21'
+                    type: account
+            data_source: *1
+          '27341': &112 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '27341'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:42:49.339Z'
+                is_valid: true
+                subtitle: 
+                description: "<p>Legal Council.</p>"
+                name: 'Zurcher,  Odio y Raven '
+                position: 16
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '27339': &110 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '27339'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:41:30.093Z'
+                is_valid: true
+                subtitle: 
+                description: "<p> Este programa se basa enel diseño y planeamiento
+                  con la asesoría de  Bolsa Nacional de Valores deCosta Rica de un
+                  mercado alternativo de acciones, que ayudara y dará confianza a
+                  los inversionistas de los alcances de PPP en su private placement
+                  plan, sin perjuicio de poder convertirse en una compañía publica
+                  en el futuro.<span> </span></p>"
+                name: 'MAPA (Alternative stock market). '
+                position: 14
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '27338': &109 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '27338'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:40:04.218Z'
+                is_valid: true
+                subtitle: 
+                description: |-
+                  <p>Trust accounts.</p>
+                  <p>Improsa Bank began operations in 1986 as Financiera Improsa. Nine years later, the financial institution becomes Banco Improsa and in 2000 Financial Group Improsa, S.A. It consolidates its ten subsidiaries through which it provides financial services in Costa Rica and throughout Central America. Its services include banking, leasing, stock exchange services, trust accounts which will assist PPP with the funding structure, insurance marketing, investment fund management and investment banking, among others.</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                name: 'Improsa Bank and Trust. '
+                position: 13
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '27337': &108 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '27337'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:34:11.658Z'
+                is_valid: true
+                subtitle: 
+                description: <p><strong><em><span class="il">DECO</span>&nbsp;FTZ
+                  &amp; SMEs S.A</em></strong>, somos una empresa dedicada al desarrollo
+                  de investigaciones y consultar&iacute;a a compa&ntilde;&iacute;as
+                  que desee ingresar a los reg&iacute;menes&nbsp;<em>Zonas Francas
+                  o PYME</em>&nbsp;en Costa Rica.&nbsp;Ponemos a disposici&oacute;n
+                  de nuestros clientes personal profesional especializado en la gesti&oacute;n
+                  y tramitolog&iacute;a acorde con la legislaci&oacute;n vigente,
+                  brindando as&iacute; un trato personalizado que garantiza el servicio
+                  recibido, con aprobaciones en plazos muy razonables.<br /><br />Dentro
+                  de los objetivos, se encuentra desarrollo de&nbsp;<strong><em>"Encadenamientos
+                  Productivos&rdquo;</em></strong>, entre las&nbsp;<em>PYME</em>&nbsp;y
+                  las&nbsp;<em>"Grandes Empresas</em>", lo cual se define como un
+                  medio para integrar la econom&iacute;a regional, comunitaria con
+                  la global, en pro de la mejora de sus procesos productivos a trav&eacute;s
+                  de la transferencia de tecnolog&iacute;a, mejora en la calidad de
+                  sus servicios y productos, innovaci&oacute;n y desarrollo, precios
+                  competitivos, know-how gerencial; esto por medio de alianzas estrat&eacute;gicas
+                  entre ambos tipos de empresas, aunado con los alcances y beneficios
+                  de la legislaci&oacute;n vigente, desarrollo y organizaci&oacute;n
+                  de planes comunales como promover iniciativas a nivel Municipal.</p>
+                name: Deco FTZ & SME's
+                position: 12
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '27336': &107 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '27336'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:29:00.080Z'
+                is_valid: true
+                subtitle: 
+                description: "<p>Design and planning.</p>"
+                name: Jurong. Singapore
+                position: 11
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '27335': &106 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '27335'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:27:26.552Z'
+                is_valid: true
+                subtitle: 
+                description: "<p>Master Plan y Business Plan.&nbsp;</p>"
+                name: CallisonRTKL
+                position: 10
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '24429': &105 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '24429'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:26:51.635Z'
+                is_valid: true
+                subtitle: 
+                description: |-
+                  <p>Newmark Grubb Central America is one of the region's leading commercial real estate advisory firms. With more than 14 years of experience, we provide a fully integrated platform of services to prominent multinational corporations and institutional investors, as well as to occupiers, owners and developers of real estate on a local, regional and national level.</p>
+                  <p>They go far beyond being just a real estate brokerage firm by performig also PPP's marketing and promotional program worldwide. Their experience has taught us to focus not only on the present features of the business, but also on the creation of a long term relationship with our customers.</p>
+                name: Newmark Grubb Central America.
+                position: 9
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '14758': &104 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '14758'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:21:16.206Z'
+                is_valid: true
+                subtitle: 
+                description: "<p>SOLAR ...</p>"
+                name: SOLAR ?
+                position: 8
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '14755': &100 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '14755'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:20:31.342Z'
+                is_valid: true
+                subtitle: 
+                description: "<p>Tabash y Asociados has been in charge of managing
+                  financial solutions for its clients for the past 15 years, with
+                  the purpose of improving its clients&rsquo; growth, development,
+                  short-term and medium-term planning, helping them in negotiating
+                  funds to be utilized as work capital, credit lines, financing for
+                  projects and investments, recovery and financing of their credit
+                  portfolio, research and development, launching of new products,
+                  financial development for their own clients, etc. We have specialized
+                  in developing innovative models, which allow for adjustments depending
+                  on the clients&rsquo; and funders&acute; needs. We use national
+                  and international donors, public or private, as well as investment
+                  societies, NGOs, funders other than banks, sophisticated investors
+                  and, more recently, we have been involved with Risk Funders, Venture
+                  Capital and Risk Investors. &gt; We cater to clients from all areas
+                  of the economy, as well as all sizes of companies, from micro-businesses,
+                  to mega-projects, dedicated to activities such as agriculture, livestock,
+                  agro-industry, industry, commerce and services and a large variety
+                  of entrepreneurs, small and medium-sized companies, associations
+                  and municipalities and cooperatives. &nbsp;Tabash y Asociados, together
+                  with PPP, will develop a financing model, which we will execute.
+                  &nbsp;Our tasks will concentrate on the first three fundamental
+                  parts of this project: a) the first task will be to obtain resources
+                  for the preliminary studies. &nbsp;b) the second will be to gather
+                  a group of innovative funders, which will create the structure needed
+                  in order to negotiate the land. &nbsp;c) the third task will be
+                  to raise the capital needed to buy the land and carry out the required
+                  studies for the execution of the project.</p>"
+                name: TABASH Y ASOCIADOS
+                position: 4
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '14752': &93 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '14752'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2017-07-27T02:19:28.189Z'
+                is_valid: true
+                subtitle: 
+                description: |-
+                  <p>Conceiver, general coordinator and promoter company of Punta Perla Pac&iacute;fico Smart City initiative and its development through the generation of specialized poles in the areas of infrastructure, logistics, education, transportation, ports and Cargo airport, a center for technology transfer and a technological park. It is represented by Mauricio Dobles Montealegre, a lawyer specialized in Corporate Law. Pacific Tree S.A., through a small group of angel/risk investors plans to invest US$ 420.000.oo for the making and initiation of the preliminary study phase, upon its conclusion after 12/18 months Punta Perla Pacifico will enter its take off stage.</p>
+                  <p>At such time a consortia of national and international investors, aims to invest a sum of up to US$ 420 million dollars for the purchase of lands, and financing of the advanced technical-study phase, development of basic infrastructure such as water well perforation, building of aqueducts, streets,transportation net work, sidewalks, bike lanes, underground electricity networks, sewer systems, water treatment plants and fiber optics networks, broad band, among others, construction the educational cluster residential urban areas- commercial and industrial. We will invite sub-development companies to invest, design and develop specific sections within and for said development poles.-</p>
+                name: Pacific Tree S.A.
+                position: 1
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '1806'
+                    type: item_type
+                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '734'
+                    type: user
+            data_source: *1
+          '23769': &26 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '23769'
               type: item
               attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-03-02T01:57:36.165Z'
+                updated_at: '2017-07-27T02:14:10.505Z'
                 is_valid: true
                 ocultar_texto: false
-                decription: ''
+                decription: "<p>xxxxx</p>"
                 image: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   alt: 
                   path: "/288/1480973520-ElPalmar-Conjuntoplanorev62015-sinperimetro.jpg"
@@ -1160,15 +1774,18 @@ images:
                   format: jpg
                   height: 831
                 title: The new port terminal of the Pacific. Chomes Puntarenas
+                position: 2
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '21'
+                    type: account
             data_source: *1
-          '15478': &16 !ruby/object:Dato::Local::JsonApiEntity
+          '15478': &49 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '15478'
               type: item
@@ -1209,7 +1826,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14762': &51 !ruby/object:Dato::Local::JsonApiEntity
+          '14762': &78 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14762'
               type: item
@@ -1237,7 +1854,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '39537': &3 !ruby/object:Dato::Local::JsonApiEntity
+          '39537': &37 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39537'
               type: item
@@ -1260,7 +1877,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '39536': &7 !ruby/object:Dato::Local::JsonApiEntity
+          '39536': &40 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39536'
               type: item
@@ -1283,7 +1900,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '39535': &8 !ruby/object:Dato::Local::JsonApiEntity
+          '39535': &41 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39535'
               type: item
@@ -1306,7 +1923,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '39534': &9 !ruby/object:Dato::Local::JsonApiEntity
+          '39534': &42 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39534'
               type: item
@@ -1330,7 +1947,7 @@ images:
                   data: 
             data_source: *1
           '39533': *2
-          '39532': &32 !ruby/object:Dato::Local::JsonApiEntity
+          '39532': &65 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39532'
               type: item
@@ -1355,7 +1972,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '39531': &68 !ruby/object:Dato::Local::JsonApiEntity
+          '39531': &27 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39531'
               type: item
@@ -1373,15 +1990,18 @@ images:
                   format: jpg
                   height: 2599
                 title: Main Cores
+                position: 3
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '21'
+                    type: account
             data_source: *1
-          '39530': &11 !ruby/object:Dato::Local::JsonApiEntity
+          '39530': &44 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39530'
               type: item
@@ -1404,7 +2024,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '39529': &69 !ruby/object:Dato::Local::JsonApiEntity
+          '39529': &28 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39529'
               type: item
@@ -1422,15 +2042,18 @@ images:
                   format: jpg
                   height: 1028
                 title: City Overview
+                position: 4
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '21'
+                    type: account
             data_source: *1
-          '39528': &70 !ruby/object:Dato::Local::JsonApiEntity
+          '39528': &29 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '39528'
               type: item
@@ -1448,15 +2071,18 @@ images:
                   format: jpg
                   height: 1028
                 title: Internal Transportation layout
+                position: 5
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '21'
+                    type: account
             data_source: *1
-          '32275': &31 !ruby/object:Dato::Local::JsonApiEntity
+          '32275': &64 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32275'
               type: item
@@ -1481,7 +2107,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '32272': &30 !ruby/object:Dato::Local::JsonApiEntity
+          '32272': &63 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32272'
               type: item
@@ -1506,7 +2132,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '32271': &29 !ruby/object:Dato::Local::JsonApiEntity
+          '32271': &62 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32271'
               type: item
@@ -1531,7 +2157,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '32267': &28 !ruby/object:Dato::Local::JsonApiEntity
+          '32267': &61 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32267'
               type: item
@@ -1556,7 +2182,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '32264': &71 !ruby/object:Dato::Local::JsonApiEntity
+          '32264': &30 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32264'
               type: item
@@ -1574,15 +2200,18 @@ images:
                   format: jpg
                   height: 586
                 title: 'Geographical zone overview '
+                position: 6
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '21'
+                    type: account
             data_source: *1
-          '32258': &72 !ruby/object:Dato::Local::JsonApiEntity
+          '32258': &31 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32258'
               type: item
@@ -1600,15 +2229,18 @@ images:
                   format: jpg
                   height: 336
                 title: General Context
+                position: 7
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '21'
+                    type: account
             data_source: *1
-          '32257': &73 !ruby/object:Dato::Local::JsonApiEntity
+          '32257': &32 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '32257'
               type: item
@@ -1626,15 +2258,18 @@ images:
                   format: jpg
                   height: 382
                 title: Costa Rica - Relevant Infraestructure
+                position: 8
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '21'
+                    type: account
             data_source: *1
-          '30901': &101 !ruby/object:Dato::Local::JsonApiEntity
+          '30901': &113 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '30901'
               type: item
@@ -1646,216 +2281,18 @@ images:
                   people live,  work and play to create enduring, deeply human design
                   solutions.</p>"
                 name: Michael Graves Architecture & Design
-                position: 16
+                position: 17
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1806'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '27341': &100 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '27341'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-27T21:16:06.346Z'
-                is_valid: true
-                subtitle: 
-                description: "<p>Legal council.</p>"
-                name: 'Zurcher,  Odio y Raven '
-                position: 15
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                    id: '734'
+                    type: user
             data_source: *1
-          '27340': &99 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '27340'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-27T21:14:20.729Z'
-                is_valid: true
-                subtitle: 
-                description: "<p>Parque Pymes y encadenamientos,que actuarían como
-                  enlazadoras y suplidoras con sus productos y servicios a las grandes
-                  firmas que se ubicarían dentro de la IPZ.</p>"
-                name: Camapymes
-                position: 14
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '27339': &98 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '27339'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-27T21:12:03.128Z'
-                is_valid: true
-                subtitle: 
-                description: "<p> Este programa se basa enel diseño y planeamiento
-                  con la asesoría de  Bolsa Nacional de Valores deCosta Rica de un
-                  mercado alternativo de acciones, que ayudara y dará confianza a
-                  los inversionistas de los alcances de PPP en su private placement
-                  plan, sin perjuicio de poder convertirse en una compañía publica
-                  en el futuro.<span> </span></p>"
-                name: 'Programa MAPA '
-                position: 13
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '27338': &97 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '27338'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-27T21:05:34.148Z'
-                is_valid: true
-                subtitle: 
-                description: |-
-                  <p>Trust accounts.</p><p>Improsa Bank began operations in 1986 as Financiera Improsa. Nine years later, the financial institution becomes Banco Improsa and in 2000 Grupo Financiero Improsa, S.A. It consolidates its ten subsidiaries through which it provides financial services in Costa Rica and throughout Central America. Its services include banking, leasing, stock exchange services, trust accounts, insurance marketing, investment fund management and investment banking, among others.</p><p><br></p>
-                  <p><br></p>
-                name: 'Banco Improsa  '
-                position: 12
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '14752': &82 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '14752'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-27T20:42:26.094Z'
-                is_valid: true
-                subtitle: 
-                description: "<p>Conceiver, general coordinator and promoter company
-                  of Punta Perla Pacífico Smart City  initiative and its development
-                  through the generation of specialized poles in the areas of infrastructure,
-                  logistics, education, transportation, ports and Cargo airport, a
-                  center for technology transfer and a technological park.  It is
-                  represented by Mauricio Dobles Montealegre, a lawyer specialized
-                  in Corporate Law.  Pacific Tree S.A., through a small group of angel/risk
-                  investors plans to invest US$ 450.000.oo for the making and initiation
-                  of the preliminary study phase, upon its conclusion after 12/18
-                  months Punta Perla Pacifico will enter its take off stage.  </p><p><span>At
-                  such time a consortia of national and international investors, aims
-                  to invest a sum of up to US$ 289.8 million dollars for the purchase
-                  of lands, and financing of the advanced technical-study phase, development
-                  of basic infrastructure such as water well perforation, building
-                  of aqueducts, streets,transportation net work, sidewalks, bike lanes,
-                  underground electricity networks, sewer systems, water treatment
-                  plants and fiber optics networks, broad band, among others, construction
-                  the educational cluster residential urban areas- commercial and
-                  industrial. We  will invite sub-development companies to invest,
-                  design and develop specific sections within and for said development
-                  poles.-</span></p>"
-                name: Pacific Tree S.A.
-                position: 1
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '24429': &93 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '24429'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-26T00:47:03.979Z'
-                is_valid: true
-                subtitle: 
-                description: "<p>????Newmark Grubb Central America is one of the region's
-                  leading commercial real estate advisory firms. With more than 14
-                  years of experience, we provide a fully integrated platform of services
-                  to prominent multinational corporations and institutional investors,
-                  as well as to occupiers, owners and developers of real estate on
-                  a local, regional and national level.</p><p><span>They go far beyond
-                  being just a real estate brokerage firm. Their experience has taught
-                  us to focus not only on the present features of the business, but
-                  also on the creation of a long term relationship with our customers.</span></p>"
-                name: Newmark Grubb Central America.
-                position: 8
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '27335': &94 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '27335'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-26T00:40:41.941Z'
-                is_valid: true
-                subtitle: 
-                description: "<p>Master Plan y Business Plan</p>"
-                name: CallisonRTKL
-                position: 9
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '14758': &92 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '14758'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-26T00:37:51.120Z'
-                is_valid: true
-                subtitle: 
-                description: "<p>En Nordteco es una empresa dedicada a la provisión
-                  de bienes y servicios de alta tecnología y valor agregado, sirviendo
-                  a la industria de la energía en América Latina. <span>Fundada en
-                  1993, cuenta</span><span> 20 años atendiendo con excelencia las
-                  necesidades de empresas eléctricas, promotores y operadores de proyectos
-                  y plantas eólicas en toda la región. </span><span>A través de estos
-                  años han evolucionado continuamente en experiencia, recurso humano
-                  y herramientas tecnológicas;  incrementando a la vez la gama y profundidad
-                  de alcance que ofrecemos a través de toda la cadena de valor. </span></p><p><span>Con
-                  la energía solar fotovoltaica alcanzando el umbral económico de
-                  paridad de red, percibimos un notable incremento en actividades
-                  de promoción de proyectos en la región. <br></span></p>"
-                name: Nordteco
-                position: 7
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '14757': &91 !ruby/object:Dato::Local::JsonApiEntity
+          '14757': &102 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14757'
               type: item
@@ -1886,45 +2323,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '27337': &96 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '27337'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-04T03:24:53.412Z'
-                is_valid: true
-                subtitle: 
-                description: "<p>Consultoría Zonas Francas</p>"
-                name: 'Mon  Reve Marketing Costa Rica S.A. '
-                position: 11
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '27336': &95 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '27336'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2017-01-04T03:24:03.906Z'
-                is_valid: true
-                subtitle: 
-                description: "<p>Diseño y Planeación </p>"
-                name: Jurong Singapur
-                position: 10
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '14767': &61 !ruby/object:Dato::Local::JsonApiEntity
+          '14767': &88 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14767'
               type: item
@@ -1961,7 +2360,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14778': &45 !ruby/object:Dato::Local::JsonApiEntity
+          '14778': &14 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14778'
               type: item
@@ -1980,7 +2379,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '18221': &12 !ruby/object:Dato::Local::JsonApiEntity
+          '18221': &45 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '18221'
               type: item
@@ -2198,7 +2597,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14766': &60 !ruby/object:Dato::Local::JsonApiEntity
+          '14766': &87 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14766'
               type: item
@@ -2232,7 +2631,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14783': &19 !ruby/object:Dato::Local::JsonApiEntity
+          '14783': &52 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14783'
               type: item
@@ -2257,7 +2656,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14784': &23 !ruby/object:Dato::Local::JsonApiEntity
+          '14784': &56 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14784'
               type: item
@@ -2282,7 +2681,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14785': &24 !ruby/object:Dato::Local::JsonApiEntity
+          '14785': &57 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14785'
               type: item
@@ -2307,7 +2706,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14786': &25 !ruby/object:Dato::Local::JsonApiEntity
+          '14786': &58 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14786'
               type: item
@@ -2334,7 +2733,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '24424': &26 !ruby/object:Dato::Local::JsonApiEntity
+          '24424': &59 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '24424'
               type: item
@@ -2362,7 +2761,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '24426': &27 !ruby/object:Dato::Local::JsonApiEntity
+          '24426': &60 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '24426'
               type: item
@@ -2387,33 +2786,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '23202': &74 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '23202'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2016-12-23T22:37:23.014Z'
-                is_valid: true
-                ocultar_texto: true
-                decription: 
-                image: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  alt: 
-                  path: "/288/1480477715-Punta-Perla-Pacifico-ffff.jpg"
-                  size: 139509
-                  title: 
-                  width: 2999
-                  format: jpg
-                  height: 2324
-                title: Primer slide
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1808'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '14761': &75 !ruby/object:Dato::Local::JsonApiEntity
+          '14761': &33 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14761'
               type: item
@@ -2431,15 +2804,18 @@ images:
                   format: jpg
                   height: 2048
                 title: Industrial Zone - Park
+                position: 9
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '735'
+                    type: user
             data_source: *1
-          '14760': &76 !ruby/object:Dato::Local::JsonApiEntity
+          '14760': &34 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14760'
               type: item
@@ -2457,15 +2833,18 @@ images:
                   format: jpg
                   height: 2048
                 title: Stadium and sport center.
+                position: 10
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '735'
+                    type: user
             data_source: *1
-          '24427': &77 !ruby/object:Dato::Local::JsonApiEntity
+          '24427': &35 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '24427'
               type: item
@@ -2483,15 +2862,18 @@ images:
                   format: jpg
                   height: 793
                 title: Master Plan
+                position: 11
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '1808'
                     type: item_type
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '735'
+                    type: user
             data_source: *1
-          '14763': &57 !ruby/object:Dato::Local::JsonApiEntity
+          '14763': &84 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14763'
               type: item
@@ -2527,7 +2909,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14765': &59 !ruby/object:Dato::Local::JsonApiEntity
+          '14765': &86 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14765'
               type: item
@@ -2551,7 +2933,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14764': &58 !ruby/object:Dato::Local::JsonApiEntity
+          '14764': &85 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14764'
               type: item
@@ -2576,7 +2958,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14759': &78 !ruby/object:Dato::Local::JsonApiEntity
+          '14759': &89 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14759'
               type: item
@@ -2604,7 +2986,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14782': &44 !ruby/object:Dato::Local::JsonApiEntity
+          '14782': &77 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14782'
               type: item
@@ -2627,7 +3009,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14781': &43 !ruby/object:Dato::Local::JsonApiEntity
+          '14781': &76 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14781'
               type: item
@@ -2651,7 +3033,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14780': &42 !ruby/object:Dato::Local::JsonApiEntity
+          '14780': &75 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14780'
               type: item
@@ -2675,7 +3057,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14779': &33 !ruby/object:Dato::Local::JsonApiEntity
+          '14779': &66 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14779'
               type: item
@@ -2699,7 +3081,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14756': &90 !ruby/object:Dato::Local::JsonApiEntity
+          '14756': &101 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14756'
               type: item
@@ -2728,52 +3110,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14755': &89 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '14755'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2016-09-17T09:56:43.082Z'
-                is_valid: true
-                subtitle: 
-                description: "<p>Tabash y Asociados has been in charge of managing
-                  financial solutions for its clients for the past 15 years, with
-                  the purpose of improving its clients’ growth, development, short-term
-                  and medium-term planning, helping them in negotiating funds to be
-                  utilized as work capital, credit lines, financing for projects and
-                  investments, recovery and financing of their credit portfolio, research
-                  and development, launching of new products, financial development
-                  for their own clients, etc.  We have specialized in developing innovative
-                  models, which allow for adjustments depending on the clients’ and
-                  funders´ needs.  We use national and international donors, public
-                  or private, as well as investment societies, NGOs, funders other
-                  than banks, sophisticated investors and, more recently, we have
-                  been involved with Risk Funders, Venture Capital and Risk Investors.
-                  &gt; We cater to clients from all areas of the economy, as well
-                  as all sizes of companies, from micro-businesses, to mega-projects,
-                  dedicated to activities such as agriculture, livestock, agro-industry,
-                  industry, commerce and services and a large variety of entrepreneurs,
-                  small and medium-sized companies, associations and municipalities
-                  and cooperatives. &gt; Tabash y Asociados, together with PPP, will
-                  develop a financing model, which we will execute. &gt; Our tasks
-                  will concentrate on the first three fundamental parts of this project:
-                  &gt; a) the first task will be to obtain resources for the preliminary
-                  studies. &gt;  b) the second will be to gather a group of innovative
-                  funders, which will create the structure needed in order to negotiate
-                  the land. &gt; c) the third task will be to raise the capital needed
-                  to buy the land and carry out the required studies for the execution
-                  of the project.</p>"
-                name: TABASH Y ASOCIADOS
-                position: 4
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '1806'
-                    type: item_type
-                last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: 
-            data_source: *1
-          '14754': &88 !ruby/object:Dato::Local::JsonApiEntity
+          '14754': &99 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14754'
               type: item
@@ -2798,7 +3135,7 @@ images:
                 last_editor: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '14753': &87 !ruby/object:Dato::Local::JsonApiEntity
+          '14753': &98 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '14753'
               type: item
@@ -2826,556 +3163,590 @@ images:
   items_repo: &4 !ruby/object:Dato::Local::ItemsRepo
     entities_repo: *1
     collections_by_type:
-      :cluster_images: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &105 !ruby/object:Dato::Local::Item
+      :construction: &114 !ruby/object:Dato::Local::Item
         entity: *3
         items_repo: *4
         item_type: *5
         fields:
         - *6
-      - &106 !ruby/object:Dato::Local::Item
-        entity: *7
+        - *7
+        - *8
+        - *9
+        - *10
+        - *11
+        - *12
+        - *13
+      :contacto: &151 !ruby/object:Dato::Local::Item
+        entity: *14
         items_repo: *4
-        item_type: *5
+        item_type: *15
         fields:
-        - *6
-      - &107 !ruby/object:Dato::Local::Item
-        entity: *8
-        items_repo: *4
-        item_type: *5
-        fields:
-        - *6
-      - &108 !ruby/object:Dato::Local::Item
-        entity: *9
-        items_repo: *4
-        item_type: *5
-        fields:
-        - *6
-      - *10
-      - &111 !ruby/object:Dato::Local::Item
-        entity: *11
-        items_repo: *4
-        item_type: *5
-        fields:
-        - *6
-      :executive_summary: &135 !ruby/object:Dato::Local::Item
-        entity: *12
-        items_repo: *4
-        item_type: *13
-        fields:
-        - *14
-        - *15
-      :small_slides: !ruby/array:Dato::Local::ItemsRepo::ItemCollection []
-      :small_description: &103 !ruby/object:Dato::Local::Item
-        entity: *16
-        items_repo: *4
-        item_type: *17
-        fields:
+        - *16
+        - *17
         - *18
-      :plans: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &137 !ruby/object:Dato::Local::Item
-        entity: *19
+        - *19
+      :slides: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &118 !ruby/object:Dato::Local::Item
+        entity: *20
         items_repo: *4
-        item_type: *20
+        item_type: *21
         fields:
-        - *21
         - *22
-      - &138 !ruby/object:Dato::Local::Item
-        entity: *23
-        items_repo: *4
-        item_type: *20
-        fields:
-        - *21
-        - *22
-      - &139 !ruby/object:Dato::Local::Item
-        entity: *24
-        items_repo: *4
-        item_type: *20
-        fields:
-        - *21
-        - *22
-      - &140 !ruby/object:Dato::Local::Item
-        entity: *25
-        items_repo: *4
-        item_type: *20
-        fields:
-        - *21
-        - *22
-      - &141 !ruby/object:Dato::Local::Item
+        - *23
+        - *24
+        - *25
+      - &129 !ruby/object:Dato::Local::Item
         entity: *26
         items_repo: *4
-        item_type: *20
+        item_type: *21
         fields:
-        - *21
         - *22
-      - &142 !ruby/object:Dato::Local::Item
+        - *23
+        - *24
+        - *25
+      - &137 !ruby/object:Dato::Local::Item
         entity: *27
         items_repo: *4
-        item_type: *20
+        item_type: *21
         fields:
-        - *21
         - *22
-      - &117 !ruby/object:Dato::Local::Item
+        - *23
+        - *24
+        - *25
+      - &139 !ruby/object:Dato::Local::Item
         entity: *28
         items_repo: *4
-        item_type: *20
+        item_type: *21
         fields:
-        - *21
         - *22
-      - &116 !ruby/object:Dato::Local::Item
+        - *23
+        - *24
+        - *25
+      - &140 !ruby/object:Dato::Local::Item
         entity: *29
         items_repo: *4
-        item_type: *20
+        item_type: *21
         fields:
-        - *21
         - *22
-      - &115 !ruby/object:Dato::Local::Item
+        - *23
+        - *24
+        - *25
+      - &145 !ruby/object:Dato::Local::Item
         entity: *30
         items_repo: *4
-        item_type: *20
+        item_type: *21
         fields:
-        - *21
         - *22
-      - &114 !ruby/object:Dato::Local::Item
+        - *23
+        - *24
+        - *25
+      - &146 !ruby/object:Dato::Local::Item
         entity: *31
         items_repo: *4
-        item_type: *20
+        item_type: *21
         fields:
-        - *21
         - *22
-      - &109 !ruby/object:Dato::Local::Item
+        - *23
+        - *24
+        - *25
+      - &147 !ruby/object:Dato::Local::Item
         entity: *32
         items_repo: *4
-        item_type: *20
+        item_type: *21
         fields:
-        - *21
         - *22
-      :program_data_charts: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &154 !ruby/object:Dato::Local::Item
+        - *23
+        - *24
+        - *25
+      - &160 !ruby/object:Dato::Local::Item
         entity: *33
         items_repo: *4
-        item_type: *34
+        item_type: *21
         fields:
-        - *35
-        - *36
-        - *37
-        - *38
+        - *22
+        - *23
+        - *24
+        - *25
+      - &161 !ruby/object:Dato::Local::Item
+        entity: *34
+        items_repo: *4
+        item_type: *21
+        fields:
+        - *22
+        - *23
+        - *24
+        - *25
+      - &162 !ruby/object:Dato::Local::Item
+        entity: *35
+        items_repo: *4
+        item_type: *21
+        fields:
+        - *22
+        - *23
+        - *24
+        - *25
+      - &115 !ruby/object:Dato::Local::Item
+        entity: *36
+        items_repo: *4
+        item_type: *21
+        fields:
+        - *22
+        - *23
+        - *24
+        - *25
+      :cluster_images: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &132 !ruby/object:Dato::Local::Item
+        entity: *37
+        items_repo: *4
+        item_type: *38
+        fields:
         - *39
-        - *40
-        - *41
-      - &153 !ruby/object:Dato::Local::Item
+      - &133 !ruby/object:Dato::Local::Item
+        entity: *40
+        items_repo: *4
+        item_type: *38
+        fields:
+        - *39
+      - &134 !ruby/object:Dato::Local::Item
+        entity: *41
+        items_repo: *4
+        item_type: *38
+        fields:
+        - *39
+      - &135 !ruby/object:Dato::Local::Item
         entity: *42
         items_repo: *4
-        item_type: *34
+        item_type: *38
         fields:
-        - *35
-        - *36
-        - *37
-        - *38
         - *39
-        - *40
-        - *41
-      - &152 !ruby/object:Dato::Local::Item
-        entity: *43
-        items_repo: *4
-        item_type: *34
-        fields:
-        - *35
-        - *36
-        - *37
-        - *38
-        - *39
-        - *40
-        - *41
-      - &151 !ruby/object:Dato::Local::Item
+      - *43
+      - &138 !ruby/object:Dato::Local::Item
         entity: *44
         items_repo: *4
-        item_type: *34
+        item_type: *38
         fields:
-        - *35
-        - *36
-        - *37
-        - *38
         - *39
-        - *40
-        - *41
-      :contacto: &134 !ruby/object:Dato::Local::Item
+      :executive_summary: &152 !ruby/object:Dato::Local::Item
         entity: *45
         items_repo: *4
         item_type: *46
         fields:
         - *47
         - *48
-        - *49
-        - *50
-      :clusters: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &104 !ruby/object:Dato::Local::Item
-        entity: *51
+      :small_slides: !ruby/array:Dato::Local::ItemsRepo::ItemCollection []
+      :small_description: &130 !ruby/object:Dato::Local::Item
+        entity: *49
         items_repo: *4
-        item_type: *52
+        item_type: *50
         fields:
-        - *53
+        - *51
+      :plans: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &154 !ruby/object:Dato::Local::Item
+        entity: *52
+        items_repo: *4
+        item_type: *53
+        fields:
         - *54
         - *55
-        - *56
-      - &147 !ruby/object:Dato::Local::Item
+      - &155 !ruby/object:Dato::Local::Item
+        entity: *56
+        items_repo: *4
+        item_type: *53
+        fields:
+        - *54
+        - *55
+      - &156 !ruby/object:Dato::Local::Item
         entity: *57
         items_repo: *4
-        item_type: *52
+        item_type: *53
         fields:
-        - *53
         - *54
         - *55
-        - *56
-      - &149 !ruby/object:Dato::Local::Item
+      - &157 !ruby/object:Dato::Local::Item
         entity: *58
         items_repo: *4
-        item_type: *52
+        item_type: *53
         fields:
-        - *53
         - *54
         - *55
-        - *56
-      - &148 !ruby/object:Dato::Local::Item
+      - &158 !ruby/object:Dato::Local::Item
         entity: *59
         items_repo: *4
-        item_type: *52
+        item_type: *53
         fields:
-        - *53
         - *54
         - *55
-        - *56
-      - &136 !ruby/object:Dato::Local::Item
+      - &159 !ruby/object:Dato::Local::Item
         entity: *60
         items_repo: *4
-        item_type: *52
+        item_type: *53
         fields:
-        - *53
         - *54
         - *55
-        - *56
-      - &133 !ruby/object:Dato::Local::Item
+      - &144 !ruby/object:Dato::Local::Item
         entity: *61
         items_repo: *4
-        item_type: *52
+        item_type: *53
         fields:
-        - *53
         - *54
         - *55
-        - *56
-      :slides: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &102 !ruby/object:Dato::Local::Item
+      - &143 !ruby/object:Dato::Local::Item
         entity: *62
         items_repo: *4
-        item_type: *63
+        item_type: *53
         fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &110 !ruby/object:Dato::Local::Item
-        entity: *68
+        - *54
+        - *55
+      - &142 !ruby/object:Dato::Local::Item
+        entity: *63
         items_repo: *4
-        item_type: *63
+        item_type: *53
         fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &112 !ruby/object:Dato::Local::Item
-        entity: *69
+        - *54
+        - *55
+      - &141 !ruby/object:Dato::Local::Item
+        entity: *64
         items_repo: *4
-        item_type: *63
+        item_type: *53
         fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &113 !ruby/object:Dato::Local::Item
-        entity: *70
+        - *54
+        - *55
+      - &136 !ruby/object:Dato::Local::Item
+        entity: *65
         items_repo: *4
-        item_type: *63
+        item_type: *53
         fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &118 !ruby/object:Dato::Local::Item
-        entity: *71
+        - *54
+        - *55
+      :program_data_charts: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &170 !ruby/object:Dato::Local::Item
+        entity: *66
         items_repo: *4
-        item_type: *63
+        item_type: *67
         fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &119 !ruby/object:Dato::Local::Item
-        entity: *72
-        items_repo: *4
-        item_type: *63
-        fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &120 !ruby/object:Dato::Local::Item
-        entity: *73
-        items_repo: *4
-        item_type: *63
-        fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &143 !ruby/object:Dato::Local::Item
-        entity: *74
-        items_repo: *4
-        item_type: *63
-        fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &144 !ruby/object:Dato::Local::Item
+        - *68
+        - *69
+        - *70
+        - *71
+        - *72
+        - *73
+        - *74
+      - &169 !ruby/object:Dato::Local::Item
         entity: *75
         items_repo: *4
-        item_type: *63
+        item_type: *67
         fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &145 !ruby/object:Dato::Local::Item
+        - *68
+        - *69
+        - *70
+        - *71
+        - *72
+        - *73
+        - *74
+      - &168 !ruby/object:Dato::Local::Item
         entity: *76
         items_repo: *4
-        item_type: *63
+        item_type: *67
         fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      - &146 !ruby/object:Dato::Local::Item
+        - *68
+        - *69
+        - *70
+        - *71
+        - *72
+        - *73
+        - *74
+      - &167 !ruby/object:Dato::Local::Item
         entity: *77
         items_repo: *4
-        item_type: *63
+        item_type: *67
         fields:
-        - *64
-        - *65
-        - *66
-        - *67
-      :introduction: &150 !ruby/object:Dato::Local::Item
+        - *68
+        - *69
+        - *70
+        - *71
+        - *72
+        - *73
+        - *74
+      :clusters: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &131 !ruby/object:Dato::Local::Item
         entity: *78
         items_repo: *4
         item_type: *79
         fields:
         - *80
         - *81
-      :participants: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &126 !ruby/object:Dato::Local::Item
-        entity: *82
+        - *82
+        - *83
+      - &163 !ruby/object:Dato::Local::Item
+        entity: *84
         items_repo: *4
-        item_type: *83
+        item_type: *79
         fields:
-        - *84
-        - *85
-        - *86
-      - &158 !ruby/object:Dato::Local::Item
+        - *80
+        - *81
+        - *82
+        - *83
+      - &165 !ruby/object:Dato::Local::Item
+        entity: *85
+        items_repo: *4
+        item_type: *79
+        fields:
+        - *80
+        - *81
+        - *82
+        - *83
+      - &164 !ruby/object:Dato::Local::Item
+        entity: *86
+        items_repo: *4
+        item_type: *79
+        fields:
+        - *80
+        - *81
+        - *82
+        - *83
+      - &153 !ruby/object:Dato::Local::Item
         entity: *87
         items_repo: *4
-        item_type: *83
+        item_type: *79
         fields:
-        - *84
-        - *85
-        - *86
-      - &157 !ruby/object:Dato::Local::Item
+        - *80
+        - *81
+        - *82
+        - *83
+      - &150 !ruby/object:Dato::Local::Item
         entity: *88
         items_repo: *4
-        item_type: *83
+        item_type: *79
         fields:
-        - *84
-        - *85
-        - *86
-      - &156 !ruby/object:Dato::Local::Item
+        - *80
+        - *81
+        - *82
+        - *83
+      :introduction: &166 !ruby/object:Dato::Local::Item
         entity: *89
         items_repo: *4
-        item_type: *83
+        item_type: *90
         fields:
-        - *84
-        - *85
-        - *86
-      - &155 !ruby/object:Dato::Local::Item
-        entity: *90
-        items_repo: *4
-        item_type: *83
-        fields:
-        - *84
-        - *85
-        - *86
-      - &130 !ruby/object:Dato::Local::Item
-        entity: *91
-        items_repo: *4
-        item_type: *83
-        fields:
-        - *84
-        - *85
-        - *86
-      - &129 !ruby/object:Dato::Local::Item
-        entity: *92
-        items_repo: *4
-        item_type: *83
-        fields:
-        - *84
-        - *85
-        - *86
-      - &127 !ruby/object:Dato::Local::Item
+        - *91
+        - *92
+      :participants: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &128 !ruby/object:Dato::Local::Item
         entity: *93
         items_repo: *4
-        item_type: *83
+        item_type: *94
         fields:
-        - *84
-        - *85
-        - *86
-      - &128 !ruby/object:Dato::Local::Item
-        entity: *94
-        items_repo: *4
-        item_type: *83
-        fields:
-        - *84
-        - *85
-        - *86
-      - &132 !ruby/object:Dato::Local::Item
-        entity: *95
-        items_repo: *4
-        item_type: *83
-        fields:
-        - *84
-        - *85
-        - *86
-      - &131 !ruby/object:Dato::Local::Item
-        entity: *96
-        items_repo: *4
-        item_type: *83
-        fields:
-        - *84
-        - *85
-        - *86
-      - &125 !ruby/object:Dato::Local::Item
-        entity: *97
-        items_repo: *4
-        item_type: *83
-        fields:
-        - *84
-        - *85
-        - *86
-      - &124 !ruby/object:Dato::Local::Item
+        - *95
+        - *96
+        - *97
+      - &173 !ruby/object:Dato::Local::Item
         entity: *98
         items_repo: *4
-        item_type: *83
+        item_type: *94
         fields:
-        - *84
-        - *85
-        - *86
-      - &123 !ruby/object:Dato::Local::Item
+        - *95
+        - *96
+        - *97
+      - &172 !ruby/object:Dato::Local::Item
         entity: *99
         items_repo: *4
-        item_type: *83
+        item_type: *94
         fields:
-        - *84
-        - *85
-        - *86
-      - &122 !ruby/object:Dato::Local::Item
+        - *95
+        - *96
+        - *97
+      - &127 !ruby/object:Dato::Local::Item
         entity: *100
         items_repo: *4
-        item_type: *83
+        item_type: *94
         fields:
-        - *84
-        - *85
-        - *86
-      - &121 !ruby/object:Dato::Local::Item
+        - *95
+        - *96
+        - *97
+      - &171 !ruby/object:Dato::Local::Item
         entity: *101
         items_repo: *4
-        item_type: *83
+        item_type: *94
         fields:
-        - *84
-        - *85
-        - *86
+        - *95
+        - *96
+        - *97
+      - &149 !ruby/object:Dato::Local::Item
+        entity: *102
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &116 !ruby/object:Dato::Local::Item
+        entity: *103
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &126 !ruby/object:Dato::Local::Item
+        entity: *104
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &125 !ruby/object:Dato::Local::Item
+        entity: *105
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &124 !ruby/object:Dato::Local::Item
+        entity: *106
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &123 !ruby/object:Dato::Local::Item
+        entity: *107
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &122 !ruby/object:Dato::Local::Item
+        entity: *108
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &121 !ruby/object:Dato::Local::Item
+        entity: *109
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &120 !ruby/object:Dato::Local::Item
+        entity: *110
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &117 !ruby/object:Dato::Local::Item
+        entity: *111
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &119 !ruby/object:Dato::Local::Item
+        entity: *112
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
+      - &148 !ruby/object:Dato::Local::Item
+        entity: *113
+        items_repo: *4
+        item_type: *94
+        fields:
+        - *95
+        - *96
+        - *97
     items_by_id:
-      '23769': *102
-      '15478': *103
-      '14762': *104
-      '39537': *105
-      '39536': *106
-      '39535': *107
-      '39534': *108
-      '39533': *10
-      '39532': *109
-      '39531': *110
-      '39530': *111
-      '39529': *112
-      '39528': *113
-      '32275': *114
-      '32272': *115
-      '32271': *116
-      '32267': *117
-      '32264': *118
-      '32258': *119
-      '32257': *120
-      '30901': *121
-      '27341': *122
-      '27340': *123
-      '27339': *124
-      '27338': *125
-      '14752': *126
-      '24429': *127
-      '27335': *128
-      '14758': *129
-      '14757': *130
-      '27337': *131
-      '27336': *132
-      '14767': *133
-      '14778': *134
-      '18221': *135
-      '14766': *136
-      '14783': *137
-      '14784': *138
-      '14785': *139
-      '14786': *140
-      '24424': *141
-      '24426': *142
-      '23202': *143
-      '14761': *144
-      '14760': *145
-      '24427': *146
-      '14763': *147
-      '14765': *148
-      '14764': *149
-      '14759': *150
-      '14782': *151
-      '14781': *152
-      '14780': *153
-      '14779': *154
-      '14756': *155
-      '14755': *156
-      '14754': *157
-      '14753': *158
+      '90735': *114
+      '23202': *115
+      '83321': *116
+      '27340': *117
+      '83322': *118
+      '27341': *119
+      '27339': *120
+      '27338': *121
+      '27337': *122
+      '27336': *123
+      '27335': *124
+      '24429': *125
+      '14758': *126
+      '14755': *127
+      '14752': *128
+      '23769': *129
+      '15478': *130
+      '14762': *131
+      '39537': *132
+      '39536': *133
+      '39535': *134
+      '39534': *135
+      '39533': *43
+      '39532': *136
+      '39531': *137
+      '39530': *138
+      '39529': *139
+      '39528': *140
+      '32275': *141
+      '32272': *142
+      '32271': *143
+      '32267': *144
+      '32264': *145
+      '32258': *146
+      '32257': *147
+      '30901': *148
+      '14757': *149
+      '14767': *150
+      '14778': *151
+      '18221': *152
+      '14766': *153
+      '14783': *154
+      '14784': *155
+      '14785': *156
+      '14786': *157
+      '24424': *158
+      '24426': *159
+      '14761': *160
+      '14760': *161
+      '24427': *162
+      '14763': *163
+      '14765': *164
+      '14764': *165
+      '14759': *166
+      '14782': *167
+      '14781': *168
+      '14780': *169
+      '14779': *170
+      '14756': *171
+      '14754': *172
+      '14753': *173
     item_type_methods:
-      *5: :cluster_images
-      *13: :executive_summary
-      *159: :small_slides
-      *17: :small_description
-      *20: :plans
-      *34: :program_data_charts
-      *46: :contacto
-      *52: :clusters
-      *63: :slides
-      *79: :introduction
-      *83: :participants
-  item_type: *5
+      *5: :construction
+      *15: :contacto
+      *21: :slides
+      *38: :cluster_images
+      *46: :executive_summary
+      *174: :small_slides
+      *50: :small_description
+      *53: :plans
+      *67: :program_data_charts
+      *79: :clusters
+      *90: :introduction
+      *94: :participants
+  item_type: *38
   fields:
-  - *6
-- *108
-- *107
-- *106
-- *105
+  - *39
+- *135
+- *134
+- *133
+- *132
 ---
 
