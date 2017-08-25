@@ -42,13 +42,18 @@ end
 
 directory "_about/" do
 
-  create_post "introduction.md" do
-    frontmatter :yaml,
-      title: "Introduction",
-      subtitle: dato.introduction.sub_title,
-      weight: 1
+  intoduction_sections = []
 
-    content dato.introduction.body
+  dato.introduction.secciones.each do |section|
+    intoduction_sections << "\#\# #{section.title}\n![#{section.image.url}](#{section.image.url}){: .pull-right .txt-img }#{section.text}\n\n"
+  end
+
+  create_post "introduction.md" do
+    frontmatter(:yaml, {
+      title: dato.introduction.title,
+      subtitle: dato.introduction.subtitle
+    })
+    content(intoduction_sections.join)
   end
 
   create_post "executive-summary.md" do
